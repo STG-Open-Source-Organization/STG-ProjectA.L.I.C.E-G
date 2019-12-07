@@ -1,12 +1,1 @@
-{
-    "name": "VNM_Test_ProjectAlice 1080p",
-    "main": "GameOffline.html",
-    "chromium-args": "--ignore-gpu-blacklist",
-    "window": {
-        "title": "Game Test",
-        "icon": "icon.png",
-        "always-on-top": false,
-        "width": 1920,
-        "height": 1080
-    }
-}
+{"name":"ProjectAlice 1080p","main":"index.html","chromium-args":"--ignore-gpu-blacklist","window":{"title":"ProjectAlice","icon":"icon.png","toolbar":false,"frame":true,"width":1920,"height":1080,"position":"center"}}
