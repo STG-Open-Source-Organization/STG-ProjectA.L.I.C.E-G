@@ -1,0 +1,20 @@
+{
+    "uid": "DF61FFA61FFE084E623858E1BCF8AA21296E",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "README",
+        "order": 0,
+        "content": "/**\n * Yami Engine Moe - Camera Extension\n * \n * This extension adds more functions to game camera, such as manipulate camera\n * for each layer (backgrounds, pictures or characters) instead of the whole screen.\n * \n * ============================================================================\n * Added Commands:\n * \n * Screen\n *  | Camera\n *      | Pan Layer\n *      | Zoom Layer\n *      | Rotate Layer\n */",
+        "parentId": "57D148DC75E0A84B3E586723B5420BBD3D81",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "/**\n * Yami Engine Moe - Camera Extension\n * \n * This extension adds more functions to game camera, such as manipulate camera\n * for each layer (backgrounds, pictures or characters) instead of the whole screen.\n * \n * ============================================================================\n * Added Commands:\n * \n * Screen\n *  | Camera\n *      | Pan Layer\n *      | Zoom Layer\n *      | Rotate Layer\n */"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

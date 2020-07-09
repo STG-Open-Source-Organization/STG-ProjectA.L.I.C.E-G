@@ -1,0 +1,106 @@
+{
+    "uid": "E81B6349777C594E9D18C737B1CC29E87DDB",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "extension",
+        "id": "SumRndmDde.SuperMessageEditor",
+        "packageDescription": {
+            "id": "SumRndmDde.SuperMessageEditor",
+            "organization": "SumRndmDde",
+            "name": "Super Message Editor",
+            "version": "1.0.0.1",
+            "author": "Robert Borghese",
+            "website": "http://sumrndm.site/",
+            "description": "============================================\nSuper Message Editor  -  v1.0.0.1\n\nby SumRndmDde\n============================================\n\nThis is extension provides developers the ability to use a \"wysiwyg\" style text editor for creating Show Message commands.\n\nThe way it works is the extension adds a command called \"Show Message (Editor)\". This command is identical to the \"Show Message\" command. The only difference is there is now a new input for opening the editor. Simply click on \"Message Editor\" and then \"Open Editor\".\n\nUpon opening the editor, any existing text will be loaded in. Compatible message codes will be translated to their proper effects while other text codes will remain unchanged. Once the user edits their message, they may simply close the window. The new text will be converted back into VNM message codes and placed into the command text box. Be sure to click the command box to view the updated changes!\n\n\nHere are all the compatible effects:\n\nBold, Italic, Underline, Strike-out, Text Size, Text Color (uses custom color codes!), Outline Color (uses custom colors also!) \n\n\nFinally, the editor also provides find, replace, and special paste functions to help with some of those special moments when you need to find, replace, or... special paste something...\n\n\nWelp, that's all for now. Bye! ~",
+            "license": "= = = = = = Terms of Use = = = = = =\n\nUp to date terms can be found here: http://sumrndm.site/vnm-terms-of-use/\n\n– These Extensions may be used in free or commercial games.\n– “SumRndmDde” must be given credit and this website must also be linked.\n– You are allowed to edit the Extension code for your own use. If you wish to redistribute edits, please do so by creating a child Extension.\n– Please do not modify the comments at the top of the source files.\n– The author, description, license, and other information bound to the Extension may not be changed.\n– You are NOT allowed to redistribute these Extensions.\n– You may NOT take code for your own released Extensions without credit.\n– If I see your game uses one of my Extensions and I shamelessly ask for a free copy, please do not judge me too much 😀\n\n= = = = = = Other Licensing Info = = = = = =\n\nThis extension uses CKEditor, which is licensed under GPL. More information can be found here:\nhttps://ckeditor.com/legal/ckeditor-oss-license/"
+        },
+        "organization": "SumRndmDde",
+        "name": "Super Message Editor",
+        "version": "1.0.0.1",
+        "author": "Robert Borghese",
+        "website": "http://sumrndm.site/",
+        "description": "============================================\nSuper Message Editor  -  v1.0.0.1\n\nby SumRndmDde\n============================================\n\nThis is extension provides developers the ability to use a \"wysiwyg\" style text editor for creating Show Message commands.\n\nThe way it works is the extension adds a command called \"Show Message (Editor)\". This command is identical to the \"Show Message\" command. The only difference is there is now a new input for opening the editor. Simply click on \"Message Editor\" and then \"Open Editor\".\n\nUpon opening the editor, any existing text will be loaded in. Compatible message codes will be translated to their proper effects while other text codes will remain unchanged. Once the user edits their message, they may simply close the window. The new text will be converted back into VNM message codes and placed into the command text box. Be sure to click the command box to view the updated changes!\n\n\nHere are all the compatible effects:\n\nBold, Italic, Underline, Strike-out, Text Size, Text Color (uses custom color codes!), Outline Color (uses custom colors also!) \n\n\nFinally, the editor also provides find, replace, and special paste functions to help with some of those special moments when you need to find, replace, or... special paste something...\n\n\nWelp, that's all for now. Bye! ~",
+        "license": "= = = = = = Terms of Use = = = = = =\n\nUp to date terms can be found here: http://sumrndm.site/vnm-terms-of-use/\n\n– These Extensions may be used in free or commercial games.\n– “SumRndmDde” must be given credit and this website must also be linked.\n– You are allowed to edit the Extension code for your own use. If you wish to redistribute edits, please do so by creating a child Extension.\n– Please do not modify the comments at the top of the source files.\n– The author, description, license, and other information bound to the Extension may not be changed.\n– You are NOT allowed to redistribute these Extensions.\n– You may NOT take code for your own released Extensions without credit.\n– If I see your game uses one of my Extensions and I shamelessly ask for a free copy, please do not judge me too much 😀\n\n= = = = = = Other Licensing Info = = = = = =\n\nThis extension uses CKEditor, which is licensed under GPL. More information can be found here:\nhttps://ckeditor.com/legal/ckeditor-oss-license/",
+        "preferences": {},
+        "active": true,
+        "relatedDocuments": [
+            {
+                "uid": "1A3009B764B23644486B7AF20E8565E62030",
+                "backup": false
+            },
+            {
+                "uid": "2B64D552KE2D4A49F9SB3A9EE72E018E0396",
+                "backup": true,
+                "items": {
+                    "name": "Language Bundles",
+                    "type": "document_folder",
+                    "order": 4,
+                    "parentId": "07DD30D15041E0DE"
+                }
+            },
+            {
+                "uid": "2D6DDCFB823A264D876851404FED829E5C22",
+                "backup": false
+            },
+            {
+                "uid": "65C4214A2B674749414827D148BC72E75573",
+                "backup": false
+            },
+            {
+                "uid": "934EEFB56FCD83468D7BAD12AA152EFDC942",
+                "backup": false
+            },
+            {
+                "uid": "AFAD6CEFK59C1A4298SBABFE7AEC1B964622",
+                "backup": true,
+                "items": {
+                    "name": "Scene Commands",
+                    "type": "document_folder",
+                    "order": 1,
+                    "parentId": "07DD30D15041E0DE"
+                }
+            },
+            {
+                "uid": "B44250B85DB9E94A2B4B36C381B3B249C56A",
+                "backup": false
+            },
+            {
+                "uid": "D1CE237F11317043EE98FBA68FE7130CED1D",
+                "backup": false
+            },
+            {
+                "uid": "D94DB100743D3041A36BDD9710A7C3C37DE2",
+                "backup": false
+            },
+            {
+                "uid": "DB2D3154KEE4EA43BCSBC59ED3B462A07998",
+                "backup": true,
+                "items": {
+                    "name": "Scripts",
+                    "type": "document_folder",
+                    "order": 3,
+                    "parentId": "07DD30D15041E0DE"
+                }
+            },
+            {
+                "uid": "DD4FD1821620B747AC39A05179085474F201",
+                "backup": false
+            },
+            {
+                "uid": "EF63ADAE72ACC74E583B2482206C3A64349B",
+                "backup": false
+            },
+            {
+                "uid": "FF737F6D85E218483628F9278BF6FDB8B0F9",
+                "backup": false
+            }
+        ],
+        "relatedResources": []
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

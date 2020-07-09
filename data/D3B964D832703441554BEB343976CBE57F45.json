@@ -1,0 +1,19 @@
+{
+    "uid": "D3B964D832703441554BEB343976CBE57F45",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "Manager",
+        "order": 0,
+        "content": "",
+        "parentId": "2F0C102681B1334D6A4874E4994286CDEC95",
+        "folder": true,
+        "scriptType": 0
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

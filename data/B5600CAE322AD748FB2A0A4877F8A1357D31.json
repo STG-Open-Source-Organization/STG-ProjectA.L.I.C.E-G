@@ -1,0 +1,19 @@
+{
+    "uid": "B5600CAE322AD748FB2A0A4877F8A1357D31",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "Components",
+        "order": 11,
+        "content": "",
+        "parentId": "CC2ABB6E28AFB345556B1ED6912E91138477",
+        "folder": true,
+        "scriptType": 0
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

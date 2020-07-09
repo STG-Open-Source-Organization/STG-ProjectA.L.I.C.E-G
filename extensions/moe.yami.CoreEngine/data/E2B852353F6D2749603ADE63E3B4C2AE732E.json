@@ -1,0 +1,14 @@
+{
+    "uid": "E2B852353F6D2749603ADE63E3B4C2AE732E",
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Loaders",
+        "type": "game_script",
+        "order": 1,
+        "content": "",
+        "parentId": "E1629B442CB8A34E54994F161F82A4182D06",
+        "folder": true,
+        "scriptType": 0,
+        "decoded": true
+    }
+}

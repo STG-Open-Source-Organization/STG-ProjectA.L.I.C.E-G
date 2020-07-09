@@ -2888,26 +2888,114 @@
         "path": "Graphics/Pictures",
         "resources": [
             {
+                "name": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                "displayName": "[FS] Cell Phone UI",
+                "resources": [
+                    {
+                        "name": "m-checkbox-large-off.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "m-checkbox-large-on .png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "m-checkbox-small-off.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "m-checkbox-small-on .png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "msg-checkbox-small-off.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "msg-checkbox-small-on.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "pixeldropshadow.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "pixelentrybox.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "pixelscrollbar.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "pixelselection.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "pixelselection-inactive.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "pixelskin-frame.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "pixelskin-stretch.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "pixelskin-tile.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    },
+                    {
+                        "name": "pixelthumbnailshadow.png",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ],
+                "isa": null,
+                "_UID": 140293,
+                "parent": null
+            },
+            {
                 "type": "folder",
                 "name": "85EF76BFKEA74A4DAFS971BE829A634E4220",
                 "displayName": "CG Gallery",
                 "resources": [
+                    {
+                        "name": "Home",
+                        "type": "graphic",
+                        "parent": "85EF76BFKEA74A4DAFS971BE829A634E4220",
+                        "isa": null,
+                        "_UID": 142892
+                    },
+                    {
+                        "name": "HomeThumb",
+                        "type": "graphic",
+                        "parent": "85EF76BFKEA74A4DAFS971BE829A634E4220",
+                        "isa": null,
+                        "_UID": 142894
+                    },
                     {
                         "name": "Metis_CG",
                         "type": "graphic",
                         "parent": "85EF76BFKEA74A4DAFS971BE829A634E4220",
                         "isa": null,
                         "_UID": 146661
-                    },
-                    {
-                        "name": "Home",
-                        "type": "graphic",
-                        "parent": "85EF76BFKEA74A4DAFS971BE829A634E4220"
-                    },
-                    {
-                        "name": "HomeThumb",
-                        "type": "graphic",
-                        "parent": "85EF76BFKEA74A4DAFS971BE829A634E4220"
                     },
                     {
                         "name": "Metis_CG_Thumb",
@@ -3005,7 +3093,9 @@
                     {
                         "name": "choice_idle",
                         "type": "graphic",
-                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 302269
                     },
                     {
                         "name": "Choice_Idle",
@@ -3013,6 +3103,13 @@
                         "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
                         "isa": null,
                         "_UID": 5946577
+                    },
+                    {
+                        "name": "choice_locked",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 302327
                     },
                     {
                         "name": "Choice_Locked",
@@ -3064,18 +3161,18 @@
                         "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
                     },
                     {
-                        "name": "loadgame_idle",
-                        "type": "graphic",
-                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
-                        "isa": null,
-                        "_UID": 62901792
-                    },
-                    {
                         "name": "LoadGame_Idle",
                         "type": "graphic",
                         "isa": null,
                         "_UID": 293187,
                         "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "loadgame_idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901792
                     },
                     {
                         "name": "LoadGame_Selected",
@@ -3302,6 +3399,13 @@
                         "_UID": 62901840
                     },
                     {
+                        "name": "SaveGame_Hover",
+                        "type": "graphic",
+                        "isa": null,
+                        "_UID": 293237,
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
                         "name": "savegame_hover",
                         "type": "graphic",
                         "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
@@ -3309,10 +3413,10 @@
                         "_UID": 62901842
                     },
                     {
-                        "name": "SaveGame_Hover",
+                        "name": "SaveGame_Idle",
                         "type": "graphic",
                         "isa": null,
-                        "_UID": 293237,
+                        "_UID": 293239,
                         "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
                     },
                     {
@@ -3323,11 +3427,11 @@
                         "_UID": 62901844
                     },
                     {
-                        "name": "SaveGame_Idle",
+                        "name": "savegame_selected",
                         "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
                         "isa": null,
-                        "_UID": 293239,
-                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                        "_UID": 62901846
                     },
                     {
                         "name": "SaveGame_Selected",
@@ -3335,13 +3439,6 @@
                         "isa": null,
                         "_UID": 111986,
                         "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
-                    },
-                    {
-                        "name": "savegame_selected",
-                        "type": "graphic",
-                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
-                        "isa": null,
-                        "_UID": 62901846
                     },
                     {
                         "name": "Settings_Hover",
@@ -3365,18 +3462,18 @@
                         "_UID": 62901848
                     },
                     {
-                        "name": "settings_idle",
-                        "type": "graphic",
-                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
-                        "isa": null,
-                        "_UID": 62901854
-                    },
-                    {
                         "name": "Settings_Idle",
                         "type": "graphic",
                         "isa": null,
                         "_UID": 131504,
                         "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
+                    },
+                    {
+                        "name": "settings_idle",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 62901854
                     },
                     {
                         "name": "settings_idle_j",
@@ -3386,6 +3483,13 @@
                         "_UID": 62901852
                     },
                     {
+                        "name": "Settings_select",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 2003028
+                    },
+                    {
                         "name": "slider_hover",
                         "type": "graphic",
                         "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
@@ -3393,16 +3497,18 @@
                         "_UID": 62901856
                     },
                     {
+                        "name": "slider_hover2",
+                        "type": "graphic",
+                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
+                        "isa": null,
+                        "_UID": 1928573
+                    },
+                    {
                         "name": "titlescreen_hover",
                         "type": "graphic",
                         "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D",
                         "isa": null,
                         "_UID": 62901860
-                    },
-                    {
-                        "name": "choice_locked",
-                        "type": "graphic",
-                        "parent": "D25F16F7251333413E6AC2A7F7D05C3BF13D"
                     },
                     {
                         "name": "titlescreen_idle",
@@ -3652,6 +3758,12 @@
                 "_UID": 130587
             },
             {
+                "name": "STG",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 923155
+            },
+            {
                 "name": "web-start-screen",
                 "type": "graphic",
                 "isa": null,
@@ -3827,6 +3939,17 @@
                 "type": "graphic",
                 "isa": null,
                 "_UID": 368380
+            },
+            {
+                "name": "1338D5CE250D7447D52894B2C1DA00C35652",
+                "displayName": "[FS] Cell Phone UI",
+                "resources": [
+                    {
+                        "name": "Power Clear.woff",
+                        "type": "graphic",
+                        "parent": "1338D5CE250D7447D52894B2C1DA00C35652"
+                    }
+                ]
             }
         ]
     },

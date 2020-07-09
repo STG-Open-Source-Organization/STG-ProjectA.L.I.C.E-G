@@ -1,0 +1,20 @@
+{
+    "uid": "B327618846A98640BC780177F7F7A442D5D0",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "Template_MessageBox",
+        "content": "ui.UiFactory.customTypes[\"ui.MessageBox\"].controls[2].frame = [0, \"100% - 350\"];\nui.UiFactory.customTypes[\"ui.MessageBox\"].controls[3].frame[0] = 186;\n\nui.UiFactory.customTypes[\"ui.MessageBoxNVL\"].controls[0].frame[1] = \"100% - 350\";\n\nui.UiFactory.customTypes[\"ui.MessageMenu\"].controls[0].frame[1] = \"100% - 350\";",
+        "order": 0,
+        "parentId": "7C9EBEE855A0984AD4299128EC8418AE4415",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "ui.UiFactory.customTypes[\"ui.MessageBox\"].controls[2].frame = [0, \"100% - 350\"];\nui.UiFactory.customTypes[\"ui.MessageBox\"].controls[3].frame[0] = 186;\n\nui.UiFactory.customTypes[\"ui.MessageBoxNVL\"].controls[0].frame[1] = \"100% - 350\";\n\nui.UiFactory.customTypes[\"ui.MessageMenu\"].controls[0].frame[1] = \"100% - 350\";"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

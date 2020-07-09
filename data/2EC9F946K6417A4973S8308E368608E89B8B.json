@@ -5,7 +5,7 @@
     "items": {
         "name": "Helpers",
         "type": "game_script",
-        "order": 7,
+        "order": 11,
         "content": "",
         "parentId": "ROOT",
         "folder": true,

@@ -31,22 +31,28 @@
                     "number": 100,
                     "hotspots": [
                         {
-                            "x": 894,
-                            "y": 80,
+                            "x": 0,
+                            "y": 265,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 447,
-                                "y": 40,
-                                "width": 179,
-                                "height": 127,
+                                "x": 0,
+                                "y": 265,
+                                "width": 415,
+                                "height": 64,
                                 "action": 1,
                                 "label": "back",
                                 "bindToSwitch": false,
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -58,32 +64,39 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 179,
-                                "height": 127
+                                "width": 415,
+                                "height": 64
                             }
                         },
                         {
-                            "x": 1206,
-                            "y": 256,
+                            "x": 671,
+                            "y": 248,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 603,
-                                "y": 128,
-                                "width": 206,
-                                "height": 54,
+                                "x": 671,
+                                "y": 248,
+                                "width": 45,
+                                "height": 21,
                                 "action": 1,
                                 "label": "display_window",
                                 "bindToSwitch": true,
                                 "switch": {
                                     "name": "Display - Window",
                                     "index": 0,
-                                    "scope": 0
+                                    "scope": 0,
+                                    "domain": "com.degica.vnm.default"
                                 },
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -95,32 +108,39 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 206,
-                                "height": 54
+                                "width": 45,
+                                "height": 21
                             }
                         },
                         {
-                            "x": 1428,
-                            "y": 258,
+                            "x": 671,
+                            "y": 198,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 714,
-                                "y": 129,
-                                "width": 241,
-                                "height": 54,
+                                "x": 671,
+                                "y": 198,
+                                "width": 45,
+                                "height": 21,
                                 "action": 1,
                                 "label": "display_fullscreen",
                                 "bindToSwitch": true,
                                 "switch": {
                                     "name": "Display - Fullscreen",
                                     "index": 1,
-                                    "scope": 0
+                                    "scope": 0,
+                                    "domain": "com.degica.vnm.default"
                                 },
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -132,19 +152,19 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 241,
-                                "height": 54
+                                "width": 45,
+                                "height": 21
                             }
                         },
                         {
-                            "x": 1424,
-                            "y": 344,
+                            "x": 1554,
+                            "y": 18,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 712,
-                                "y": 172,
+                                "x": 1424,
+                                "y": 344,
                                 "width": 193,
                                 "height": 51,
                                 "action": 1,
@@ -174,8 +194,8 @@
                             }
                         },
                         {
-                            "x": 1210,
-                            "y": 342,
+                            "x": 1346,
+                            "y": 20,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -211,8 +231,8 @@
                             }
                         },
                         {
-                            "x": 1210,
-                            "y": 398,
+                            "x": 1354,
+                            "y": 72,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -248,8 +268,8 @@
                             }
                         },
                         {
-                            "x": 1424,
-                            "y": 400,
+                            "x": 1556,
+                            "y": 74,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -285,8 +305,8 @@
                             }
                         },
                         {
-                            "x": 912,
-                            "y": 942,
+                            "x": 1630,
+                            "y": 970,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -324,8 +344,8 @@
                             }
                         },
                         {
-                            "x": 1364,
-                            "y": 942,
+                            "x": 1524,
+                            "y": 970,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -369,7 +389,7 @@
                         }
                     },
                     "hover": {
-                        "name": "settings_hover",
+                        "name": "Settings_select",
                         "hue": 0,
                         "opacity": 255,
                         "blending": 0,
@@ -382,7 +402,7 @@
                     },
                     "unselected": null,
                     "selected": {
-                        "name": "settings_hover",
+                        "name": "Settings_Hover",
                         "hue": 0,
                         "opacity": 255,
                         "blending": 0,
@@ -453,6 +473,9 @@
                         "scope": 1,
                         "index": 0,
                         "domain": "com.degica.vnm.default"
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
                     }
                 },
                 "indent": 0,
@@ -461,8 +484,8 @@
             {
                 "id": "gs.AddHotspot",
                 "params": {
-                    "shape": "rect",
-                    "positionType": 1,
+                    "shape": "pixel",
+                    "positionType": 0,
                     "actions": {
                         "onClick": {
                             "type": 0,
@@ -569,10 +592,10 @@
                             "scope": 0
                         },
                         "horizontal": 1,
-                        "vertical": 0,
+                        "vertical": 1,
                         "rect": {
-                            "x": 1229,
-                            "y": 546,
+                            "x": 595,
+                            "y": 430,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -592,23 +615,23 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 415,
+                                "width": 550,
                                 "height": 20
                             }
                         }
                     },
                     "position": 1,
                     "box": {
-                        "x": 1227,
-                        "y": 545,
+                        "x": 651,
+                        "y": 429,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
                         "data": {
-                            "x": 1076,
-                            "y": 364,
-                            "width": 20,
-                            "height": 16,
+                            "x": 651,
+                            "y": 433,
+                            "width": 8,
+                            "height": 12,
                             "horizontalFlip": false,
                             "zoom": 1,
                             "angle": 0
@@ -620,8 +643,8 @@
                             "alpha": 160
                         },
                         "size": {
-                            "width": 20,
-                            "height": 16
+                            "width": 8,
+                            "height": 24
                         }
                     },
                     "previewBackground": {
@@ -630,7 +653,7 @@
                 },
                 "indent": 0,
                 "uid": "301561DA6FC4A84B785B06C7BAF3BA202CFA",
-                "expanded": false
+                "expanded": true
             },
             {
                 "id": "gs.ShowPicture",
@@ -639,7 +662,7 @@
                         "type": "ui"
                     },
                     "size": {
-                        "type": 1,
+                        "type": 0,
                         "width": 316,
                         "height": 23
                     },
@@ -670,12 +693,14 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 1227,
-                        "y": 545,
+                        "x": 649,
+                        "y": 429,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
-                        "data": {},
+                        "data": {
+                            "zoom": 1.19912902961612
+                        },
                         "color": {
                             "red": 0,
                             "green": 0,
@@ -688,7 +713,7 @@
                         "inOut": 1
                     },
                     "animation": {
-                        "type": 1,
+                        "type": 0,
                         "movement": 0,
                         "mask": {
                             "graphic": null,
@@ -697,10 +722,10 @@
                     },
                     "fieldFlags": {
                         "duration": 0,
-                        "easing.type": 1,
+                        "easing.type": 0,
                         "animation.type": 0,
                         "zOrder": 0,
-                        "blendMode": 1,
+                        "blendMode": 0,
                         "visual.type": 0,
                         "visual.frame.thickness": 1,
                         "visual.frame.cornerSize": 1,
@@ -709,7 +734,7 @@
                         "size.type": 0,
                         "size.width": 0,
                         "size.height": 0,
-                        "viewport.type": 1,
+                        "viewport.type": 0,
                         "origin": 1
                     },
                     "previewBackground": {
@@ -731,7 +756,7 @@
                 },
                 "indent": 0,
                 "uid": "BAA3CD021AB3C24AA509E6C5B1859002C78C",
-                "expanded": false
+                "expanded": true
             },
             {
                 "id": "gs.AddHotspot",
@@ -1008,7 +1033,7 @@
                 },
                 "indent": 0,
                 "uid": "30C9DADD2C47C849E18A3F8426215BB2A2D6",
-                "expanded": false
+                "expanded": true
             },
             {
                 "id": "gs.AddHotspot",
@@ -1565,10 +1590,87 @@
                 "expanded": false
             },
             {
+                "id": "gs.ShowPicture",
+                "params": {
+                    "numberDomain": "com.degica.vnm.default",
+                    "viewport": {
+                        "type": "ui"
+                    },
+                    "size": {
+                        "type": 0,
+                        "width": 100,
+                        "height": 100
+                    },
+                    "visual": {
+                        "type": 0,
+                        "quad": {
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 255
+                            }
+                        },
+                        "frame": {
+                            "thickness": 16,
+                            "cornerSize": 16
+                        },
+                        "threePartImage": {
+                            "orientation": 0
+                        }
+                    },
+                    "predefinedPositionId": 0,
+                    "number": 3,
+                    "blendMode": 0,
+                    "zOrder": 0,
+                    "duration": 0,
+                    "origin": 0,
+                    "waitForCompletion": 0,
+                    "positionType": 1,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "origin": 0,
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "graphic": {
+                        "name": "slider_hover2",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    }
+                },
+                "uid": "77D99BC460AA824DBD4972426AAB98FF8F30",
+                "indent": 0
+            },
+            {
                 "id": "gs.AddHotspot",
                 "params": {
                     "shape": "rect",
-                    "positionType": 1,
+                    "positionType": 0,
                     "actions": {
                         "onClick": {
                             "type": 0,
@@ -1677,8 +1779,8 @@
                         "horizontal": 1,
                         "vertical": 0,
                         "rect": {
-                            "x": 1228,
-                            "y": 842,
+                            "x": 652,
+                            "y": 756,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -1698,15 +1800,15 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 420,
+                                "width": 499,
                                 "height": 24
                             }
                         }
                     },
                     "position": 1,
                     "box": {
-                        "x": 1227,
-                        "y": 841,
+                        "x": 651,
+                        "y": 757,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
@@ -1726,7 +1828,7 @@
                             "alpha": 160
                         },
                         "size": {
-                            "width": 20,
+                            "width": 8,
                             "height": 23
                         }
                     },
@@ -1739,6 +1841,95 @@
                 "indent": 0,
                 "uid": "F49A1F595345B44C2529F5F426BBEFD3EB9F",
                 "expanded": false
+            },
+            {
+                "id": "gs.ShowPicture",
+                "params": {
+                    "numberDomain": "com.degica.vnm.default",
+                    "viewport": {
+                        "type": "ui"
+                    },
+                    "size": {
+                        "type": 0,
+                        "width": 100,
+                        "height": 100
+                    },
+                    "visual": {
+                        "type": 0,
+                        "quad": {
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 255
+                            }
+                        },
+                        "frame": {
+                            "thickness": 16,
+                            "cornerSize": 16
+                        },
+                        "threePartImage": {
+                            "orientation": 0
+                        }
+                    },
+                    "predefinedPositionId": 0,
+                    "number": 4,
+                    "blendMode": 0,
+                    "zOrder": 0,
+                    "duration": 0,
+                    "origin": 0,
+                    "waitForCompletion": 0,
+                    "positionType": 1,
+                    "position": {
+                        "x": 372,
+                        "y": 754,
+                        "angle": 0,
+                        "zoom": 1,
+                        "horizontalFlip": false,
+                        "data": {
+                            "zoom": 1.2057892899157572
+                        },
+                        "color": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "alpha": 0
+                        }
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "origin": 0,
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    },
+                    "graphic": {
+                        "name": "slider_hover2",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    }
+                },
+                "uid": "A39706778E7D564D533A06992D872DE0CD0B",
+                "indent": 0
             },
             {
                 "id": "gs.ShowPicture",
@@ -1778,12 +1969,20 @@
                     "waitForCompletion": 1,
                     "positionType": 1,
                     "position": {
-                        "x": 1227,
-                        "y": 841,
+                        "x": 643,
+                        "y": 755,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
-                        "data": {},
+                        "data": {
+                            "x": 651,
+                            "y": 767,
+                            "zoom": 1.2169526112767448,
+                            "angle": 0,
+                            "horizontalFlip": false,
+                            "width": 418,
+                            "height": 23
+                        },
                         "color": {
                             "red": 0,
                             "green": 0,
@@ -1805,10 +2004,10 @@
                     },
                     "fieldFlags": {
                         "duration": 0,
-                        "easing.type": 1,
+                        "easing.type": 0,
                         "animation.type": 0,
                         "zOrder": 0,
-                        "blendMode": 1,
+                        "blendMode": 0,
                         "visual.type": 0,
                         "visual.frame.thickness": 1,
                         "visual.frame.cornerSize": 1,
@@ -2588,7 +2787,8 @@
                     "targetVariable": {
                         "name": "Display - Window",
                         "index": 0,
-                        "scope": 0
+                        "scope": 0,
+                        "domain": "com.degica.vnm.default"
                     },
                     "targetRangeScope": 0,
                     "rangeStart": 0,
@@ -3111,12 +3311,14 @@
             {
                 "name": "Display - Window",
                 "index": 0,
-                "scope": 0
+                "scope": 0,
+                "domain": "com.degica.vnm.default"
             },
             {
                 "name": "Display - Fullscreen",
                 "index": 1,
-                "scope": 0
+                "scope": 0,
+                "domain": "com.degica.vnm.default"
             },
             {
                 "name": "Skip Msg - All Msg.",

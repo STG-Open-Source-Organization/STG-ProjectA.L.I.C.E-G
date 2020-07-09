@@ -1,0 +1,917 @@
+{
+    "uid": "F472A49C8806C945EB3B33129229C1C01C9F",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "extension",
+        "id": "moe.yami.CoreEngine",
+        "packageDescription": {
+            "id": "moe.yami.CoreEngine",
+            "organization": "",
+            "name": "Core Engine",
+            "version": "1.2.3.0",
+            "author": "Dr.Yami",
+            "website": "http://vnm.yami.moe",
+            "description": "This extension is required by all Moe Engine Extensions. It includes all user experience improvements and fixes some problems in VNM engine. The fixes and improvements are able to toggle on/off easily.",
+            "license": "MIT License\n\nCopyright (c) Dr.Yami\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+        },
+        "organization": "",
+        "name": "Core Engine",
+        "version": "1.2.3.0",
+        "author": "Dr.Yami",
+        "website": "http://vnm.yami.moe",
+        "description": "This extension is required by all Moe Engine Extensions. It includes all user experience improvements and fixes some problems in VNM engine. The fixes and improvements are able to toggle on/off easily.",
+        "license": "MIT License\n\nCopyright (c) Dr.Yami\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+        "preferences": {},
+        "active": true,
+        "relatedDocuments": [
+            {
+                "uid": "0A90532D6EDE6640F68ADE843896B575B866",
+                "backup": true,
+                "items": {
+                    "name": "Components",
+                    "type": "game_script",
+                    "order": 2,
+                    "content": "",
+                    "parentId": "E1629B442CB8A34E54994F161F82A4182D06",
+                    "folder": true,
+                    "scriptType": 0
+                }
+            },
+            {
+                "uid": "0C06FD6A5434334A808A4DB6A0C5A28C6231",
+                "backup": true,
+                "items": {
+                    "name": "Global Variables",
+                    "type": "global_variables",
+                    "numbers": [
+                        {
+                            "name": "",
+                            "scope": 1,
+                            "index": 0,
+                            "changed": true
+                        },
+                        {
+                            "name": "My Other Var X",
+                            "scope": 1,
+                            "index": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 2,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 3,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 4,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 5,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 6,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 7,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 8,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 9,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 10,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 11,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 12,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 13,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 14,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 15,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 16,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 17,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 18,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 19,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 20,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 21,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 22,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 23,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 24,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 25,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 26,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 27,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 28,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 29,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 30,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 31,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 32,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 33,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 34,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 35,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 36,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 37,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 38,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 39,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 40,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 41,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 42,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 43,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 44,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 45,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 46,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 47,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 48,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 49,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 50,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 51,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 52,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 53,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 54,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 55,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 56,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 57,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 58,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 59,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 60,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 61,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 62,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 63,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 64,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 65,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 66,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 67,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 68,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 69,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 70,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 71,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 72,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 73,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 74,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 75,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 76,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 77,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 78,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 79,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 80,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 81,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 82,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 83,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 84,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 85,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 86,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 87,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 88,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 89,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 90,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 91,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 92,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 93,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 94,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 95,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 96,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 97,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 98,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 99,
+                            "scope": 1
+                        }
+                    ],
+                    "strings": [
+                        {
+                            "name": "",
+                            "scope": 1,
+                            "index": 0,
+                            "changed": true
+                        }
+                    ],
+                    "booleans": [
+                        {
+                            "name": "My Switch",
+                            "scope": 1,
+                            "index": 0
+                        },
+                        {
+                            "name": "",
+                            "index": 1,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 2,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 3,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 4,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 5,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 6,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 7,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 8,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 9,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 10,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 11,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 12,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 13,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 14,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 15,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 16,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 17,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 18,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 19,
+                            "scope": 1
+                        }
+                    ],
+                    "numbersSizeChanged": false,
+                    "stringsSizeChanged": false,
+                    "booleansSizeChanged": false,
+                    "lists": [
+                        {
+                            "name": "My List",
+                            "index": 0,
+                            "scope": 1
+                        },
+                        {
+                            "name": "Other List",
+                            "index": 1,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 2,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 3,
+                            "scope": 1
+                        },
+                        {
+                            "name": "",
+                            "index": 4,
+                            "scope": 1
+                        }
+                    ],
+                    "domain": "moe.yami.CoreEngine"
+                }
+            },
+            {
+                "uid": "21FEA5E0582E564CA68ACF55CC5C4A5ECA55",
+                "backup": true,
+                "items": {
+                    "name": "Constants",
+                    "type": "game_script",
+                    "order": 0,
+                    "content": "",
+                    "parentId": "E1629B442CB8A34E54994F161F82A4182D06",
+                    "folder": true,
+                    "scriptType": 0
+                }
+            },
+            {
+                "uid": "3A98217D6EC49241223817B97CC4668B526F",
+                "backup": true,
+                "items": {
+                    "name": "Moe - Core Engine",
+                    "type": "document_folder",
+                    "parentId": "07DD30D15041E0DE",
+                    "order": 5,
+                    "rawContent": "{}"
+                }
+            },
+            {
+                "uid": "45D2838F2613B24239582BA4F1A78EE2AEB5",
+                "backup": true,
+                "items": {
+                    "name": "Core Engine",
+                    "type": "data_record",
+                    "order": 0,
+                    "category": "moeCoreEngine",
+                    "id": "45D2838F2613B24239582BA4F1A78EE2AEB5",
+                    "isFolder": false,
+                    "parentId": "ROOT",
+                    "data": {
+                        "name": "Core Engine",
+                        "index": "45D2838F2613B24239582BA4F1A78EE2AEB5",
+                        "anywhereProceed": true
+                    }
+                }
+            },
+            {
+                "uid": "7D04354E2809364AFB592258A6D5A9D83FAE",
+                "backup": true,
+                "items": {
+                    "name": "Data Record Views",
+                    "type": "document_folder",
+                    "parentId": "3A98217D6EC49241223817B97CC4668B526F",
+                    "order": 2,
+                    "rawContent": "{}"
+                }
+            },
+            {
+                "uid": "A5CC5A825AE5F94DE77A42821B754018616D",
+                "backup": true,
+                "items": {
+                    "name": "Namespace",
+                    "type": "game_script",
+                    "order": 0,
+                    "content": "window.MOE = {};\nwindow.MOE.CoreEngine = {};\nwindow.MOE.CoreEngine.Config = {};",
+                    "parentId": "21FEA5E0582E564CA68ACF55CC5C4A5ECA55",
+                    "folder": false,
+                    "scriptType": 1,
+                    "compiledContent": "window.MOE = {};\nwindow.MOE.CoreEngine = {};\nwindow.MOE.CoreEngine.Config = {};"
+                }
+            },
+            {
+                "uid": "BBE2F18D7752A541702B4F448766D05ABC98",
+                "backup": true,
+                "items": {
+                    "name": "MessageTextRenderer",
+                    "type": "game_script",
+                    "order": 0,
+                    "content": "(function() {\n    class MessageTextRendererCoreEngine extends gs.Component_MessageTextRenderer {\n        processControlToken(token, formattingOnly) {\n            if (formattingOnly) {\n                return super.processControlToken(token, formattingOnly);\n            }\n            let result = null;\n            \n            if (token.code === \"SLK\") {\n                if (token.value === 'E') {\n                    this.currentSprite.bitmap.clearRect(this.customData.linkData.cx,\n                                                    this.customData.linkData.cy,\n                                                    this.currentX - this.customData.linkData.cx + this.object.font.borderSize*2,\n                                                    this.currentLineHeight);\n                    let line = this.lines[this.line].content;\n                    let linkStart = this.findToken(this.tokenIndex - 1, \"SLK\", -1, line);\n                    let textTokens = this.findTokensBetween(this.customData.linkData.tokenIndex, this.tokenIndex, null, line);\n                    \n                    let object = new ui.Object_Text();\n                    object.text = textTokens.select(function(x) { return x.value; }).join(\"\");\n                    object.sizeToFit = true;\n                    object.formatting = true;\n                    object.wordWrap = false;\n                    object.ui = new ui.Component_UIBehavior();\n                    object.enabled = true;\n                    object.addComponent(new gs.Component_HotspotBehavior());\n                    object.addComponent(object.ui);\n                  \n                    if (this.customData.linkData.styleIndex === -1) {\n                        ui.UIManager.addControlStyles(object, [\"hyperlink\"]);\n                    } else {\n                        ui.UIManager.addControlStyles(object, [\"hyperlink-\" + this.customData.linkData.styleIndex]);\n                    }\n                    \n                    object.setup();\n                    \n                    this.addCustomObject(object);\n                    \n                    object.dstRect.x = this.object.dstRect.x + this.object.origin.x + this.customData.linkData.cx;\n                    object.dstRect.y = this.object.dstRect.y + this.object.origin.y + this.customData.linkData.cy;\n\n                    object.events.on(\"click\", gs.CallBack(\"onLinkClick\", this), { linkData: this.customData.linkData }, this);\n                    \n                    console.log(object)\n                } else {\n                    let value = token.value.toString();\n                    if (value.contains(\",\")) {\n                        let values = value.split(\",\");\n                        this.customData.linkData = { cx: this.currentX, cy: this.currentY, commonEventId: values[0], styleIndex: parseInt(values[1]), tokenIndex: this.tokenIndex };\n                    } else {\n                        this.customData.linkData = { cx: this.currentX, cy: this.currentY, commonEventId: token.value, tokenIndex: this.tokenIndex, styleIndex: -1 };\n                    }\n                }\n            } else {\n                result = super.processControlToken(token, formattingOnly);\n            }\n                \n            \n            return result;\n        }\n    }\n    \n    gs.Component_MessageTextRenderer = MessageTextRendererCoreEngine;\n}());",
+                    "parentId": "0A90532D6EDE6640F68ADE843896B575B866",
+                    "folder": false,
+                    "scriptType": 1,
+                    "compiledContent": "(function() {\n    class MessageTextRendererCoreEngine extends gs.Component_MessageTextRenderer {\n        processControlToken(token, formattingOnly) {\n            if (formattingOnly) {\n                return super.processControlToken(token, formattingOnly);\n            }\n            let result = null;\n            \n            if (token.code === \"SLK\") {\n                if (token.value === 'E') {\n                    this.currentSprite.bitmap.clearRect(this.customData.linkData.cx,\n                                                    this.customData.linkData.cy,\n                                                    this.currentX - this.customData.linkData.cx + this.object.font.borderSize*2,\n                                                    this.currentLineHeight);\n                    let line = this.lines[this.line].content;\n                    let linkStart = this.findToken(this.tokenIndex - 1, \"SLK\", -1, line);\n                    let textTokens = this.findTokensBetween(this.customData.linkData.tokenIndex, this.tokenIndex, null, line);\n                    \n                    let object = new ui.Object_Text();\n                    object.text = textTokens.select(function(x) { return x.value; }).join(\"\");\n                    object.sizeToFit = true;\n                    object.formatting = true;\n                    object.wordWrap = false;\n                    object.ui = new ui.Component_UIBehavior();\n                    object.enabled = true;\n                    object.addComponent(new gs.Component_HotspotBehavior());\n                    object.addComponent(object.ui);\n                  \n                    if (this.customData.linkData.styleIndex === -1) {\n                        ui.UIManager.addControlStyles(object, [\"hyperlink\"]);\n                    } else {\n                        ui.UIManager.addControlStyles(object, [\"hyperlink-\" + this.customData.linkData.styleIndex]);\n                    }\n                    \n                    object.setup();\n                    \n                    this.addCustomObject(object);\n                    \n                    object.dstRect.x = this.object.dstRect.x + this.object.origin.x + this.customData.linkData.cx;\n                    object.dstRect.y = this.object.dstRect.y + this.object.origin.y + this.customData.linkData.cy;\n\n                    object.events.on(\"click\", gs.CallBack(\"onLinkClick\", this), { linkData: this.customData.linkData }, this);\n                    \n                    console.log(object)\n                } else {\n                    let value = token.value.toString();\n                    if (value.contains(\",\")) {\n                        let values = value.split(\",\");\n                        this.customData.linkData = { cx: this.currentX, cy: this.currentY, commonEventId: values[0], styleIndex: parseInt(values[1]), tokenIndex: this.tokenIndex };\n                    } else {\n                        this.customData.linkData = { cx: this.currentX, cy: this.currentY, commonEventId: token.value, tokenIndex: this.tokenIndex, styleIndex: -1 };\n                    }\n                }\n            } else {\n                result = super.processControlToken(token, formattingOnly);\n            }\n                \n            \n            return result;\n        }\n    }\n    \n    gs.Component_MessageTextRenderer = MessageTextRendererCoreEngine;\n}());"
+                }
+            },
+            {
+                "uid": "C45AD75B463B46457F58DDA730F97021C7B6",
+                "backup": true,
+                "items": {
+                    "name": "Config",
+                    "type": "game_script",
+                    "order": 0,
+                    "content": "(function() {\n    let config = window.MOE.CoreEngine.Config;\n    let loadConfig = function () {\n        let configRecord = RecordManager.moeCoreEngine[0];\n    };\n    \n    class RecordManagerCoreEngineConfig extends window.RecordManager.constructor {\n        initialize() {\n            super.initialize();\n            loadConfig();\n        }\n    }\n    \n    window.RecordManager = new RecordManagerCoreEngineConfig();\n}());",
+                    "parentId": "E2B852353F6D2749603ADE63E3B4C2AE732E",
+                    "folder": false,
+                    "scriptType": 1,
+                    "compiledContent": "(function() {\n    let config = window.MOE.CoreEngine.Config;\n    let loadConfig = function () {\n        let configRecord = RecordManager.moeCoreEngine[0];\n    };\n    \n    class RecordManagerCoreEngineConfig extends window.RecordManager.constructor {\n        initialize() {\n            super.initialize();\n            loadConfig();\n        }\n    }\n    \n    window.RecordManager = new RecordManagerCoreEngineConfig();\n}());"
+                }
+            },
+            {
+                "uid": "CE3886D54BCC34425988A0C9172BA6217C8D",
+                "backup": true,
+                "items": {
+                    "name": "Persistent Variables",
+                    "type": "persistent_variables",
+                    "numbers": [
+                        {
+                            "name": "My Per",
+                            "scope": 2,
+                            "index": 0
+                        }
+                    ],
+                    "strings": [
+                        {
+                            "name": "",
+                            "scope": 2,
+                            "index": 0
+                        }
+                    ],
+                    "booleans": [
+                        {
+                            "name": "",
+                            "scope": 2,
+                            "index": 0
+                        }
+                    ],
+                    "lists": [
+                        {
+                            "name": "",
+                            "index": 0,
+                            "scope": 0
+                        }
+                    ],
+                    "domain": "moe.yami.CoreEngine"
+                }
+            },
+            {
+                "uid": "DACBCCC46B602444D22964A7638E7E30B546",
+                "backup": true,
+                "items": {
+                    "name": "MoeCoreEngine",
+                    "type": "application_language_bundle",
+                    "parentId": "3A98217D6EC49241223817B97CC4668B526F",
+                    "phrases": {
+                        "3FC8A4BA3E33724A9E1BF9C1E03EBF7DB3BA": "Improvements"
+                    },
+                    "order": 0,
+                    "rawContent": "{\n    \"type\": \"application_language_bundle\",\n    \"name\": \"MoeCoreEngine\",\n    \"parentId\": \"2B64D552KE2D4A49F9SB3A9EE72E018E0396\",\n    \"phrases\": {\n        \"3FC8A4BA3E33724A9E1BF9C1E03EBF7DB3BA\": \"Improvements\"\n    },\n    \"order\": 1\n}"
+                }
+            },
+            {
+                "uid": "E1629B442CB8A34E54994F161F82A4182D06",
+                "backup": true,
+                "items": {
+                    "name": "Moe - Core Engine",
+                    "type": "game_script",
+                    "order": 8,
+                    "content": "",
+                    "parentId": "ROOT",
+                    "folder": true,
+                    "scriptType": 0
+                }
+            },
+            {
+                "uid": "E2B852353F6D2749603ADE63E3B4C2AE732E",
+                "backup": true,
+                "items": {
+                    "name": "Loaders",
+                    "type": "game_script",
+                    "order": 1,
+                    "content": "",
+                    "parentId": "E1629B442CB8A34E54994F161F82A4182D06",
+                    "folder": true,
+                    "scriptType": 0
+                }
+            },
+            {
+                "uid": "FAB5D19B79A9684F5928364388C272348EC6",
+                "backup": true,
+                "items": {
+                    "name": "Moe - Core Engine",
+                    "type": "DataRecordView",
+                    "parentId": "7D04354E2809364AFB592258A6D5A9D83FAE",
+                    "category": "moeCoreEngine",
+                    "order": 0,
+                    "descriptor": {
+                        "name": "Moe - Core Engine",
+                        "attribute": "moeCoreEngine",
+                        "sections": [
+                            {
+                                "name": "$$MoeCoreEngine.3FC8A4BA3E33724A9E1BF9C1E03EBF7DB3BA",
+                                "items": [
+                                    {
+                                        "type": "GSSpacer",
+                                        "frame": [
+                                            0,
+                                            2
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "rawContent": "{\n    \"parentId\": \"162D231FKB332A48FCS9A94E205403CA352B\",\n    \"category\": \"moeCoreEngine\",\n    \"order\": 10,\n    \"descriptor\": {\n        \"name\": \"Moe - Core Engine\",\n        \"attribute\": \"moeCoreEngine\",\n        \"sections\": [\n            {\n                \"name\": \"$$MoeCoreEngine.3FC8A4BA3E33724A9E1BF9C1E03EBF7DB3BA\",\n                \"items\": [\n                    {\n                        \"type\": \"GSSpacer\",\n                        \"frame\": [0, 2]\n                    }\n                ]\n            }\n        ]\n    }\n}"
+                }
+            },
+            {
+                "uid": "FFC6E1B13A90B844A87AD183D36D0EB678BF",
+                "backup": true,
+                "items": {
+                    "name": "README",
+                    "type": "game_script",
+                    "order": 3,
+                    "content": "/**\n * Yami Engine Moe - Core Engine\n * \n * This extension is required by all Moe Engine Extensions. It includes all\n * user experience improvements and fixes some problems in VNM engine. The\n * fixes and improvements are able to toggle on/off easily.\n * \n * ============================================================================\n * Bugfixes\n * \n * > Stylable clickable link (SLK):\n *   | Fixed game crash when style id is omitted from text code\n *   | Fixed hover style not applied to SLK\n * \n */",
+                    "parentId": "E1629B442CB8A34E54994F161F82A4182D06",
+                    "folder": false,
+                    "scriptType": 1,
+                    "compiledContent": "/**\n * Yami Engine Moe - Core Engine\n * \n * This extension is required by all Moe Engine Extensions. It includes all\n * user experience improvements and fixes some problems in VNM engine. The\n * fixes and improvements are able to toggle on/off easily.\n * \n * ============================================================================\n * Bugfixes\n * \n * > Stylable clickable link (SLK):\n *   | Fixed game crash when style id is omitted from text code\n *   | Fixed hover style not applied to SLK\n * \n */"
+                }
+            }
+        ],
+        "relatedResources": []
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

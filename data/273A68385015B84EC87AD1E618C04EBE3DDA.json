@@ -1,0 +1,108 @@
+{
+    "uid": "273A68385015B84EC87AD1E618C04EBE3DDA",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "extension",
+        "id": "moe.yami.QuickSave",
+        "packageDescription": {
+            "id": "moe.yami.QuickSave",
+            "organization": "",
+            "name": "Quick Save",
+            "version": "1.1.3.0",
+            "author": "Dr.Yami",
+            "website": "http://vnm.yami.moe",
+            "description": "This extension provides Quick Save and Quick Load functions to the engine, which allows users to either quick save and quick load by using Commands or using Script Call in UI.",
+            "license": "MIT License\n\nCopyright (c) Dr.Yami\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+        },
+        "organization": "",
+        "name": "Quick Save",
+        "version": "1.1.3.0",
+        "author": "Dr.Yami",
+        "website": "http://vnm.yami.moe",
+        "description": "This extension provides Quick Save and Quick Load functions to the engine, which allows users to either quick save and quick load by using Commands or using Script Call in UI.",
+        "license": "MIT License\n\nCopyright (c) Dr.Yami\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+        "preferences": {},
+        "active": true,
+        "relatedDocuments": [
+            {
+                "uid": "1029246D107735421F591AA1BD45278C7B75",
+                "backup": false
+            },
+            {
+                "uid": "15DE46472170424E14682EA2CE6E7941B29A",
+                "backup": false
+            },
+            {
+                "uid": "2F0C102681B1334D6A4874E4994286CDEC95",
+                "backup": false
+            },
+            {
+                "uid": "467A76D5523748454E88C477863709F16C74",
+                "backup": false
+            },
+            {
+                "uid": "7AEF2C941E3CB249D6687FF0AA06AD0F4861",
+                "backup": false
+            },
+            {
+                "uid": "7B2E13826126B34CB08BD033960FD439074C",
+                "backup": false
+            },
+            {
+                "uid": "7C9EBEE855A0984AD4299128EC8418AE4415",
+                "backup": false
+            },
+            {
+                "uid": "83106DC14A82274954198619CD46BFD7EB0E",
+                "backup": false
+            },
+            {
+                "uid": "8D4586805EB56147D978ED4553B2E0448A68",
+                "backup": false
+            },
+            {
+                "uid": "97C30FA30375C7420E4901C84E9A5CD7551A",
+                "backup": false
+            },
+            {
+                "uid": "9A396F0A85AA4341396A50C7076C86C753B8",
+                "backup": false
+            },
+            {
+                "uid": "B06626A177D7334AF1785408EC0A8A138465",
+                "backup": false
+            },
+            {
+                "uid": "B327618846A98640BC780177F7F7A442D5D0",
+                "backup": false
+            },
+            {
+                "uid": "C2873D54882B4049398957252A7CFD67D448",
+                "backup": false
+            },
+            {
+                "uid": "D3B964D832703441554BEB343976CBE57F45",
+                "backup": false
+            },
+            {
+                "uid": "EE9E60F71EF6644B1E9A1EE5119EA69C88D0",
+                "backup": false
+            },
+            {
+                "uid": "F8DE497E79BB8548B1691487C66BF15EF827",
+                "backup": false
+            },
+            {
+                "uid": "FDC3E1CA8C40424E23286985B16BC33E40AA",
+                "backup": false
+            }
+        ],
+        "relatedResources": []
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

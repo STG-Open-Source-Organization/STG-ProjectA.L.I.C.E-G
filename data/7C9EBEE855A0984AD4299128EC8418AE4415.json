@@ -1,0 +1,19 @@
+{
+    "uid": "7C9EBEE855A0984AD4299128EC8418AE4415",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "Layout",
+        "content": "",
+        "order": 2,
+        "parentId": "2F0C102681B1334D6A4874E4994286CDEC95",
+        "folder": true,
+        "scriptType": 0
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

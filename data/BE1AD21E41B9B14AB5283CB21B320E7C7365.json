@@ -1,0 +1,20 @@
+{
+    "uid": "BE1AD21E41B9B14AB5283CB21B320E7C7365",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "[FS] CellPhoneUI_Constants",
+        "order": 1,
+        "content": "/**\n * Layouts\\[FS] CellPhoneUI_Constants\n * Redefines constants from the original Layouts\\Constants and adds some new\n * ones. Customize them here!\n */\n\n(function(){\n    class DesktopUIConstants {\n        static initClass() {\n            this.OPTION_BUTTON_W = 78;\n            this.OPTION_BUTTON_H = 78;\n            this.OPTION_BUTTON_L_IMAGE_ON = \"m-checkbox-large-on\";\n            this.OPTION_BUTTON_L_IMAGE_OFF = \"m-checkbox-large-off\";\n            this.OPTION_BUTTON_S_IMAGE_ON = \"m-checkbox-small-on\";\n            this.OPTION_BUTTON_S_IMAGE_OFF = \"m-checkbox-small-off\";\n            this.OPTION_BUTTON_MSG_IMAGE_ON = \"msg-checkbox-small-on\";\n            this.OPTION_BUTTON_MSG_IMAGE_OFF = \"msg-checkbox-small-off\";\n            this.SLIDER_TRACK_H = 3;\n            this.TEXT_FONT = \"Power Clear\";\n            this.TEXT_SIZE_SMALL = 20;\n            this.TEXT_SIZE_MESSAGE = 30;\n            this.TEXT_SIZE_MESSAGE_NAME = 25;\n            this.TEXT_COLOR_NORMAL = [0, 0, 0, 255];\n            this.TEXT_COLOR_SPECIAL = [0, 0, 255, 255];\n            this.LAYOUT_SETTINGS_WINDOW_W = 630;\n            this.LAYOUT_SETTINGS_WINDOW_X = Graphics.width - this.LAYOUT_SETTINGS_WINDOW_W - 190;\n            this.LAYOUT_SETTINGS_VOICES_WINDOW_X = 720;\n            this.LAYOUT_SETTINGS_VOICES_WINDOW_W = 540;\n            this.LAYOUT_SETTINGS_WINDOW_LABEL_W = 80;\n            this.CG_GALLERY_CONTENT_WIDTH = (Math.floor((Graphics.width-260-(Graphics.width - (Graphics.width - 200))) / 175) * 175) + 20;\n            this.MESSAGE_BOX_IDS = [\"messageBox\", \"nvlMessageBox\"];\n            //Styles\n            \n        }\n    }\n    DesktopUIConstants.initClass();\n    gs.DesktopUIConstants = gs.UIConstants = DesktopUIConstants;\n}());",
+        "parentId": "A588F305KAB2DA4236SB838E7FF9BBA890FD",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "/**\n * Layouts\\[FS] CellPhoneUI_Constants\n * Redefines constants from the original Layouts\\Constants and adds some new\n * ones. Customize them here!\n */\n\n(function(){\n    class DesktopUIConstants {\n        static initClass() {\n            this.OPTION_BUTTON_W = 78;\n            this.OPTION_BUTTON_H = 78;\n            this.OPTION_BUTTON_L_IMAGE_ON = \"m-checkbox-large-on\";\n            this.OPTION_BUTTON_L_IMAGE_OFF = \"m-checkbox-large-off\";\n            this.OPTION_BUTTON_S_IMAGE_ON = \"m-checkbox-small-on\";\n            this.OPTION_BUTTON_S_IMAGE_OFF = \"m-checkbox-small-off\";\n            this.OPTION_BUTTON_MSG_IMAGE_ON = \"msg-checkbox-small-on\";\n            this.OPTION_BUTTON_MSG_IMAGE_OFF = \"msg-checkbox-small-off\";\n            this.SLIDER_TRACK_H = 3;\n            this.TEXT_FONT = \"Power Clear\";\n            this.TEXT_SIZE_SMALL = 20;\n            this.TEXT_SIZE_MESSAGE = 30;\n            this.TEXT_SIZE_MESSAGE_NAME = 25;\n            this.TEXT_COLOR_NORMAL = [0, 0, 0, 255];\n            this.TEXT_COLOR_SPECIAL = [0, 0, 255, 255];\n            this.LAYOUT_SETTINGS_WINDOW_W = 630;\n            this.LAYOUT_SETTINGS_WINDOW_X = Graphics.width - this.LAYOUT_SETTINGS_WINDOW_W - 190;\n            this.LAYOUT_SETTINGS_VOICES_WINDOW_X = 720;\n            this.LAYOUT_SETTINGS_VOICES_WINDOW_W = 540;\n            this.LAYOUT_SETTINGS_WINDOW_LABEL_W = 80;\n            this.CG_GALLERY_CONTENT_WIDTH = (Math.floor((Graphics.width-260-(Graphics.width - (Graphics.width - 200))) / 175) * 175) + 20;\n            this.MESSAGE_BOX_IDS = [\"messageBox\", \"nvlMessageBox\"];\n            //Styles\n            \n        }\n    }\n    DesktopUIConstants.initClass();\n    gs.DesktopUIConstants = gs.UIConstants = DesktopUIConstants;\n}());"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

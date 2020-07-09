@@ -1,0 +1,20 @@
+{
+    "uid": "F2596E48846A2548E98A2AB2A2F1DABF9942",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "Layout_Game",
+        "order": 5,
+        "content": "/**\n * [FS] Cell Phone UI\\Layouts\\Layout_Game\n * Edits to the original Layouts\\Layout_Game\n */\n \n ui.UiFactory.layouts.gameLayout = {\n    \"type\": \"ui.FreeLayout\",\n    \"frame\": [0, 0, Graphics.width, Graphics.height],\n    \"controls\":[\n        {\n            \"type\": \"ui.Panel\",\n            \"frame\": [0, 0, Graphics.width, Graphics.height],\n            \"updateBehavior\": \"continuous\",\n            \"formulas\": [$(() => o.ui.enabled = $dataFields.tempSettings.menuAccess)],\n            \"action\": { \n                \"event\": \"onCancel\", \n                \"name\": \"switchLayout\", \n                \"params\": { \"name\": \"settingsMenuLayout\", \"savePrevious\": true }\n            }\n        },\n        {\n            \"type\": \"ui.MessageBox\",\n            \"visible\": false,\n            \"id\": \"messageBox\",\n            \"frame\": [0, 0, Graphics.width, Graphics.height]\n        },\n        {\n            \"type\": \"ui.MessageBoxNVL\",\n            \"visible\": false,\n            \"id\": \"nvlMessageBox\",\n            \"frame\": [0, 0, Graphics.width, Graphics.height]\n        },\n        {\n            \"type\": \"ui.MessageMenu\",\n            \"visible\": false,\n            \"id\": \"messageMenu\",\n            \"frame\": [0, 0, Graphics.width, Graphics.height]\n        },\n        {\n            \"type\": \"ui.GameMessage\",\n            \"id\": \"gameMessage\",\n            \"params\": { \"id\": \"gameMessage\" },\n            \"frame\": [320, Graphics.height - 220]\n        },\n        {\n            \"type\": \"ui.GameMessageNVL\",\n            \"id\": \"nvlGameMessage\",\n            \"params\": { \"id\": \"nvlGameMessage\" },\n            \"frame\": [0, 0]\n        }\n    ]\n};",
+        "parentId": "CC2ABB6E28AFB345556B1ED6912E91138477",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "/**\n * [FS] Cell Phone UI\\Layouts\\Layout_Game\n * Edits to the original Layouts\\Layout_Game\n */\n \n ui.UiFactory.layouts.gameLayout = {\n    \"type\": \"ui.FreeLayout\",\n    \"frame\": [0, 0, Graphics.width, Graphics.height],\n    \"controls\":[\n        {\n            \"type\": \"ui.Panel\",\n            \"frame\": [0, 0, Graphics.width, Graphics.height],\n            \"updateBehavior\": \"continuous\",\n            \"formulas\": [$(() => o.ui.enabled = $dataFields.tempSettings.menuAccess)],\n            \"action\": { \n                \"event\": \"onCancel\", \n                \"name\": \"switchLayout\", \n                \"params\": { \"name\": \"settingsMenuLayout\", \"savePrevious\": true }\n            }\n        },\n        {\n            \"type\": \"ui.MessageBox\",\n            \"visible\": false,\n            \"id\": \"messageBox\",\n            \"frame\": [0, 0, Graphics.width, Graphics.height]\n        },\n        {\n            \"type\": \"ui.MessageBoxNVL\",\n            \"visible\": false,\n            \"id\": \"nvlMessageBox\",\n            \"frame\": [0, 0, Graphics.width, Graphics.height]\n        },\n        {\n            \"type\": \"ui.MessageMenu\",\n            \"visible\": false,\n            \"id\": \"messageMenu\",\n            \"frame\": [0, 0, Graphics.width, Graphics.height]\n        },\n        {\n            \"type\": \"ui.GameMessage\",\n            \"id\": \"gameMessage\",\n            \"params\": { \"id\": \"gameMessage\" },\n            \"frame\": [320, Graphics.height - 220]\n        },\n        {\n            \"type\": \"ui.GameMessageNVL\",\n            \"id\": \"nvlGameMessage\",\n            \"params\": { \"id\": \"nvlGameMessage\" },\n            \"frame\": [0, 0]\n        }\n    ]\n};"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

@@ -1,0 +1,14 @@
+{
+    "uid": "7B2E13826126B34CB08BD033960FD439074C",
+    "lastModificationTime": 0,
+    "items": {
+        "name": "README",
+        "type": "game_script",
+        "order": 3,
+        "content": "/**\n * Yami Engine Moe - Quick Save\n * \n * This extension provides Quick Save and Quick Load functions to the engine,\n * which allows users to either quick save and quick load by using Commands\n * or using Script Call in UI.\n * \n * ============================================================================\n * Added Commands:\n * \n * System\n *  | Save & Load\n *      | Quick Save\n *      | Quick Load\n * \n * ============================================================================\n * Layout Actions:\n * \n * > { \"name\": \"quickSave\" }\n * > { \"name\": \"quickLoad\" }\n * \n * ============================================================================\n * Modified Layouts:\n * \n * These layouts and templates are modified. Certain layouts and templates can be\n * deleted for the uses of custom layouts or templates.\n *\n * > Template_MessageBox (Can be deleted) \n * > Template_MessageBoxMenu (Can be deleted)\n * \n */",
+        "parentId": "2F0C102681B1334D6A4874E4994286CDEC95",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "/**\n * Yami Engine Moe - Quick Save\n * \n * This extension provides Quick Save and Quick Load functions to the engine,\n * which allows users to either quick save and quick load by using Commands\n * or using Script Call in UI.\n * \n * ============================================================================\n * Added Commands:\n * \n * System\n *  | Save & Load\n *      | Quick Save\n *      | Quick Load\n * \n * ============================================================================\n * Layout Actions:\n * \n * > { \"name\": \"quickSave\" }\n * > { \"name\": \"quickLoad\" }\n * \n * ============================================================================\n * Modified Layouts:\n * \n * These layouts and templates are modified. Certain layouts and templates can be\n * deleted for the uses of custom layouts or templates.\n *\n * > Template_MessageBox (Can be deleted) \n * > Template_MessageBoxMenu (Can be deleted)\n * \n */"
+    }
+}

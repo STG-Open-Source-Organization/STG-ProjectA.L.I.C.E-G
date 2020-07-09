@@ -5,7 +5,7 @@
     "items": {
         "name": "Sprites",
         "type": "game_script",
-        "order": 1,
+        "order": 2,
         "content": "",
         "parentId": "ROOT",
         "folder": true,
@@ -16,5 +16,6 @@
         "name",
         "type",
         "order"
-    ]
+    ],
+    "externalItems": []
 }

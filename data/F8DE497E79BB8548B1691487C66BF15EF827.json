@@ -1,0 +1,20 @@
+{
+    "uid": "F8DE497E79BB8548B1691487C66BF15EF827",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "LayoutSceneBehavior",
+        "order": 0,
+        "content": "(function() {\n    gs.Component_LayoutSceneBehavior.prototype.quickSave = function(sender, params) {\n        GameManager.quickSave();\n    };\n    \n    gs.Component_LayoutSceneBehavior.prototype.quickLoad = function(sender, params) {\n        GameManager.quickLoad();\n    };\n    \n    gs.Component_LayoutSceneBehavior = LayoutSceneBehaviorQuickSave;\n}());",
+        "parentId": "8D4586805EB56147D978ED4553B2E0448A68",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "(function() {\n    gs.Component_LayoutSceneBehavior.prototype.quickSave = function(sender, params) {\n        GameManager.quickSave();\n    };\n    \n    gs.Component_LayoutSceneBehavior.prototype.quickLoad = function(sender, params) {\n        GameManager.quickLoad();\n    };\n    \n    gs.Component_LayoutSceneBehavior = LayoutSceneBehaviorQuickSave;\n}());"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

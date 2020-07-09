@@ -1,0 +1,37 @@
+{
+    "uid": "72CAF167106F854BE6093656E3065E01A072",
+    "lastModificationTime": null,
+    "items": {
+        "name": "Persistent Variables",
+        "type": "persistent_variables",
+        "numbers": [
+            {
+                "name": "My Per",
+                "scope": 2,
+                "index": 0
+            }
+        ],
+        "strings": [
+            {
+                "name": "",
+                "scope": 2,
+                "index": 0
+            }
+        ],
+        "booleans": [
+            {
+                "name": "",
+                "scope": 2,
+                "index": 0
+            }
+        ],
+        "lists": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "domain": "moe.yami.CameraExtension"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "uid": "6B9371395D67634F505A1F57EEAD88EC9F84",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "README",
+        "order": 1,
+        "content": "/**\n * FoxySeta - Cell Phone UI 1.0.0\n * \n * Description:\n *  This extension provides a simple User Interface designed to resemble a cell\n *  phone. All of its scripts are inside this folder, except for\n *  Layouts\\[FS] CellPhoneUI_Constants.\n * \n * Patron:\n *  DodokaJet\n * \n * Changelog:\n *  #1.0.0\n *      -First Release\n * \n * License:\n *  MIT License (in short, free for all kind of uses, but give credit)\n */",
+        "parentId": "B9DB12F668CB83473A395CC307F64FA3D213",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "/**\n * FoxySeta - Cell Phone UI 1.0.0\n * \n * Description:\n *  This extension provides a simple User Interface designed to resemble a cell\n *  phone. All of its scripts are inside this folder, except for\n *  Layouts\\[FS] CellPhoneUI_Constants.\n * \n * Patron:\n *  DodokaJet\n * \n * Changelog:\n *  #1.0.0\n *      -First Release\n * \n * License:\n *  MIT License (in short, free for all kind of uses, but give credit)\n */"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

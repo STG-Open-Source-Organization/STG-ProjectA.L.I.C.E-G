@@ -5,7 +5,7 @@
     "items": {
         "name": "Show Message Box",
         "type": "data_record",
-        "order": 1,
+        "order": 0,
         "category": "commonEvents",
         "id": "3FC2C70568A4984D389A6A69669295952B9D",
         "isFolder": false,

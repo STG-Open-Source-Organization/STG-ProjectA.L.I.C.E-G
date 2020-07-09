@@ -1,0 +1,23 @@
+{
+    "uid": "83106DC14A82274954198619CD46BFD7EB0E",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "id": "moe.QuickSave",
+        "displayName": "$$MoeQuickSave.00BD98EE2AD5D74B6C58AB5595B543BE5DAF",
+        "group": "$$C1953650K4FD7A4268SB298E0BEFC554D88E",
+        "subGroup": "$$10532DB34986144EED48AC058CB1D33B179B",
+        "defaultValue": {},
+        "quickItems": [],
+        "rawContent": "{\n    \"id\": \"moe.QuickSave\",\n    \"displayName\": \"$$MoeQuickSave.00BD98EE2AD5D74B6C58AB5595B543BE5DAF\",\n    \"group\": \"$$C1953650K4FD7A4268SB298E0BEFC554D88E\",\n    \"subGroup\": \"$$10532DB34986144EED48AC058CB1D33B179B\",\n    \"defaultValue\": {},\n    \"quickItems\": []\n}",
+        "name": "Quick Save",
+        "type": "event_command",
+        "parentId": "C2873D54882B4049398957252A7CFD67D448",
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

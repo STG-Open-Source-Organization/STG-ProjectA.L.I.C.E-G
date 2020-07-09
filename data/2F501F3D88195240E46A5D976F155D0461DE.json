@@ -1,0 +1,18 @@
+{
+    "uid": "2F501F3D88195240E46A5D976F155D0461DE",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "Constants",
+        "order": 0,
+        "content": "",
+        "folder": true,
+        "parentId": "45436B783DBE45420368274395F824838391"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

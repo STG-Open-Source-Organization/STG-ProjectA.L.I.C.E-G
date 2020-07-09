@@ -68,8 +68,8 @@
                     "number": 0,
                     "hotspots": [
                         {
-                            "x": 240,
-                            "y": 369,
+                            "x": 1488,
+                            "y": 477,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -100,8 +100,8 @@
                             }
                         },
                         {
-                            "x": 240,
-                            "y": 476,
+                            "x": 1548,
+                            "y": 566,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -132,8 +132,8 @@
                             }
                         },
                         {
-                            "x": 239,
-                            "y": 571,
+                            "x": 1619,
+                            "y": 653,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -159,13 +159,13 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 353,
-                                "height": 93
+                                "width": 339,
+                                "height": 72
                             }
                         },
                         {
-                            "x": 241,
-                            "y": 690,
+                            "x": 1693,
+                            "y": 749,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -191,13 +191,13 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 268,
-                                "height": 76
+                                "width": 224,
+                                "height": 64
                             }
                         },
                         {
-                            "x": 239,
-                            "y": 789,
+                            "x": 1735,
+                            "y": 825,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
@@ -223,8 +223,8 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 245,
-                                "height": 85
+                                "width": 183,
+                                "height": 64
                             }
                         }
                     ],
@@ -334,8 +334,8 @@
                 "id": "vn.ChangeScene",
                 "params": {
                     "scene": {
-                        "uid": "6C4F9FAE7CB6C24D274ACCF24337693DE8BA",
-                        "name": "1.1"
+                        "uid": "C5A8743F068DC3416B5AC444DD926BD3F597",
+                        "name": "1.1.1"
                     },
                     "duration": 20,
                     "erasePictures": 1,
@@ -477,44 +477,6 @@
                 },
                 "indent": 0,
                 "uid": "23401433646EF548765B6540472D01DE7696"
-            },
-            {
-                "id": "vn.Choice",
-                "params": {
-                    "action": {
-                        "type": 0,
-                        "bindValue": 0,
-                        "bindValueVariable": {
-                            "scope": 0,
-                            "index": 0
-                        },
-                        "commonEventId": 0,
-                        "label": "",
-                        "switch": {
-                            "scope": 1,
-                            "index": 0
-                        },
-                        "scene": null
-                    },
-                    "text": "",
-                    "label": "",
-                    "enabled": 1,
-                    "positionType": 1,
-                    "box": {
-                        "x": 0,
-                        "y": 0,
-                        "size": {
-                            "width": 300,
-                            "height": 50
-                        }
-                    },
-                    "defaultChoice": 0,
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "uid": "F8E67BCF8ADCD240DE1BECC3BF8D530DC502",
-                "indent": 0
             },
             {
                 "id": "vn.ChangeScene",

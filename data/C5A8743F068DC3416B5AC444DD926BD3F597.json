@@ -147,7 +147,7 @@
                         "values": []
                     }
                 },
-                "uid": "D81D49A52E61A64C4E18C372B5959C9847DB",
+                "uid": "5684EEF0602D7446670BF703E2FABED55374",
                 "indent": 0
             },
             {
@@ -954,6 +954,13 @@
         ],
         "livePreviewDisabled": false,
         "booleanVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "listVariables": [
             {
                 "name": "",
                 "index": 0,

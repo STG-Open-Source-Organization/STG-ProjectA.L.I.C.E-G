@@ -1,0 +1,68 @@
+{
+    "uid": "1F3D452B44169942CE9A68B4EA38669E8A99",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "extension",
+        "id": "moe.yami.MessageExtension",
+        "packageDescription": {
+            "id": "moe.yami.MessageExtension",
+            "organization": "",
+            "name": "Message Extension",
+            "version": "1.0.3.0",
+            "author": "Dr.Yami",
+            "website": "http://vnm.yami.moe",
+            "description": "This extension provides more tokens/code for message, allows users customizing the messages and interactions with text.",
+            "license": "MIT License\n\nCopyright (c) Dr.Yami\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+        },
+        "organization": "",
+        "name": "Message Extension",
+        "version": "1.0.3.0",
+        "author": "Dr.Yami",
+        "website": "http://vnm.yami.moe",
+        "description": "This extension provides more tokens/code for message, allows users customizing the messages and interactions with text.",
+        "license": "MIT License\n\nCopyright (c) Dr.Yami\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+        "preferences": {},
+        "active": true,
+        "relatedDocuments": [
+            {
+                "uid": "2F501F3D88195240E46A5D976F155D0461DE",
+                "backup": false
+            },
+            {
+                "uid": "36E5ED176C0AF64D292870E19370863A5A01",
+                "backup": false
+            },
+            {
+                "uid": "45436B783DBE45420368274395F824838391",
+                "backup": false
+            },
+            {
+                "uid": "6E2FCD1369EFC5465D39D5D20AF6E3677A06",
+                "backup": false
+            },
+            {
+                "uid": "7E7F275D85025841494B6BB04C64801220F1",
+                "backup": false
+            },
+            {
+                "uid": "86BCAC778F371542A85BD3642AAD7302A645",
+                "backup": false
+            },
+            {
+                "uid": "876BC0BB59041842133B7B6731F16649F88C",
+                "backup": false
+            },
+            {
+                "uid": "B31B8D6F6C07314C661A18F583287B3293C1",
+                "backup": false
+            }
+        ],
+        "relatedResources": []
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

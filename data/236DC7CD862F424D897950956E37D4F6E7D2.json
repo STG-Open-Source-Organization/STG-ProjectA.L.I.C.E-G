@@ -1,0 +1,20 @@
+{
+    "uid": "236DC7CD862F424D897950956E37D4F6E7D2",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "Template_OptionButton",
+        "order": 3,
+        "content": "/**\n * [FS] Cell Phone UI\\Templates\\Template_OptionButton\n * Edits to the original Templates\\Template_OptionButton\n */\n\nui.UiFactory.customTypes[\"ui.OptionButton\"] = {\n    \"type\": \"ui.StackLayout\",\n    \"sizeToFit\": true,\n    \"controls\": [\n        {\n            \"type\": \"ui.Image\",\n            \"imageHandling\": 0,\n            \"selectable\": true,\n            \"group\"() { return p.group; },\n            \"style\": \"optionButton\",\n            \"action\"() { return p.action; },\n            \"formulas\": [\n                $((function() { if (this.onInitialize) { return o.ui.selected = this.data.read.exec(); } }), {read() { return p.read; }}),\n                $((function() { \n                    return this.data.write.exec(o.ui.selected);\n                }), {write() { return p.write; }})//, \"onAction\"\n            ],\n            \"margin\": [0, 0, 10, 0]\n        },\n        {\n            \"type\": \"ui.Text\",\n            \"id\": \"mybtn\",\n            //\"color\": [255, 255, 255],\n            \"formatting\": true,\n            \"style\": \"smallUIText\",\n            \"alignmentY\": \"center\",\n            \"text\"() { return p.label; },\n            \"frame\": [0, 0],\n            \"sizeToFit\": true\n        }\n    ]\n};",
+        "parentId": "B5600CAE322AD748FB2A0A4877F8A1357D31",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "/**\n * [FS] Cell Phone UI\\Templates\\Template_OptionButton\n * Edits to the original Templates\\Template_OptionButton\n */\n\nui.UiFactory.customTypes[\"ui.OptionButton\"] = {\n    \"type\": \"ui.StackLayout\",\n    \"sizeToFit\": true,\n    \"controls\": [\n        {\n            \"type\": \"ui.Image\",\n            \"imageHandling\": 0,\n            \"selectable\": true,\n            \"group\"() { return p.group; },\n            \"style\": \"optionButton\",\n            \"action\"() { return p.action; },\n            \"formulas\": [\n                $((function() { if (this.onInitialize) { return o.ui.selected = this.data.read.exec(); } }), {read() { return p.read; }}),\n                $((function() { \n                    return this.data.write.exec(o.ui.selected);\n                }), {write() { return p.write; }})//, \"onAction\"\n            ],\n            \"margin\": [0, 0, 10, 0]\n        },\n        {\n            \"type\": \"ui.Text\",\n            \"id\": \"mybtn\",\n            //\"color\": [255, 255, 255],\n            \"formatting\": true,\n            \"style\": \"smallUIText\",\n            \"alignmentY\": \"center\",\n            \"text\"() { return p.label; },\n            \"frame\": [0, 0],\n            \"sizeToFit\": true\n        }\n    ]\n};"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

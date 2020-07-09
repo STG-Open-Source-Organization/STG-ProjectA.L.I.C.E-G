@@ -1,0 +1,21 @@
+{
+    "uid": "E1629B442CB8A34E54994F161F82A4182D06",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Moe - Core Engine",
+        "type": "game_script",
+        "order": 10,
+        "content": "",
+        "parentId": "ROOT",
+        "folder": true,
+        "scriptType": 0,
+        "replacedByExtension": "moe.yami.CoreEngine"
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

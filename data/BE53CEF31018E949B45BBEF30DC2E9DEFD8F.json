@@ -1,0 +1,436 @@
+{
+    "uid": "BE53CEF31018E949B45BBEF30DC2E9DEFD8F",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "extension",
+        "id": "indie.foxyseta.cellphoneui",
+        "packageDescription": {
+            "id": "indie.foxyseta.cellphoneui",
+            "organization": "",
+            "name": "Cell Phone UI",
+            "version": "1.0.0.0",
+            "author": "FoxySeta",
+            "website": "https://forums.rpgmakerweb.com/index.php?members/foxyseta.102950/",
+            "description": "An extension containing a brand new UI inspired by retro cell phones.",
+            "license": "Copyright (c) 2018 FoxySeta\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+        },
+        "organization": "",
+        "name": "Cell Phone UI",
+        "version": "1.0.0.0",
+        "author": "FoxySeta",
+        "website": "https://forums.rpgmakerweb.com/index.php?members/foxyseta.102950/",
+        "description": "An extension containing a brand new UI inspired by retro cell phones.",
+        "license": "Copyright (c) 2018 FoxySeta\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+        "preferences": {},
+        "active": true,
+        "relatedDocuments": [
+            {
+                "uid": "02A34AFF71655741431B7D85C2E8C49ECC08",
+                "backup": false
+            },
+            {
+                "uid": "236DC7CD862F424D897950956E37D4F6E7D2",
+                "backup": false
+            },
+            {
+                "uid": "2AA11064321135426F6819D318CB6FA7D04F",
+                "backup": false
+            },
+            {
+                "uid": "2FCC0E1F2250064F58792FB86FC570946AAF",
+                "backup": false
+            },
+            {
+                "uid": "38DF9394685D034B2A2961342F70659023F3",
+                "backup": false
+            },
+            {
+                "uid": "489C3A544FB8E14DE63BE718FA94A56784DD",
+                "backup": false
+            },
+            {
+                "uid": "5E6772DE3767E142CD9B61B2C5E27A823DD9",
+                "backup": false
+            },
+            {
+                "uid": "6B9371395D67634F505A1F57EEAD88EC9F84",
+                "backup": false
+            },
+            {
+                "uid": "6C64DB7E8358C540B35B0D32B2EF0417E3BA",
+                "backup": false
+            },
+            {
+                "uid": "8FA6A85D89B70843CC4B1E7648C1E698BFED",
+                "backup": false
+            },
+            {
+                "uid": "9368DABD47ED37482E7B30B27597182CD4F0",
+                "backup": false
+            },
+            {
+                "uid": "9CD6AEA52665F54A8F8B3ED7C6ADBB7CBD40",
+                "backup": false
+            },
+            {
+                "uid": "A588F305KAB2DA4236SB838E7FF9BBA890FD",
+                "backup": true,
+                "items": {
+                    "name": "Layouts",
+                    "type": "game_script",
+                    "order": 7,
+                    "content": "",
+                    "parentId": "ROOT",
+                    "folder": true,
+                    "compiledContent": "\n\n//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiIiLCJzb3VyY2VzQ29udGVudCI6WyIiXX0=\n//# sourceURL=Layouts_74.js",
+                    "index": 74,
+                    "decoded": true
+                }
+            },
+            {
+                "uid": "AC7645BB2F2CA043685B6CC28DCB7E6F801F",
+                "backup": false
+            },
+            {
+                "uid": "B5600CAE322AD748FB2A0A4877F8A1357D31",
+                "backup": false
+            },
+            {
+                "uid": "B5A0EC558D2C79446E6AD6A8E4DE982875A6",
+                "backup": false
+            },
+            {
+                "uid": "B9DB12F668CB83473A395CC307F64FA3D213",
+                "backup": false
+            },
+            {
+                "uid": "BA7D7CFC499A6242824B7BE7E84FA194D45A",
+                "backup": false
+            },
+            {
+                "uid": "BD6634BB31A3A848AC4882002DEE09566841",
+                "backup": false
+            },
+            {
+                "uid": "BE1AD21E41B9B14AB5283CB21B320E7C7365",
+                "backup": false
+            },
+            {
+                "uid": "CC2ABB6E28AFB345556B1ED6912E91138477",
+                "backup": false
+            },
+            {
+                "uid": "D4E8F7B8334A044A55797222E5CB36CE6BDD",
+                "backup": false
+            },
+            {
+                "uid": "E096FFF13B5179435A092AF17BB3D33DC52C",
+                "backup": false
+            },
+            {
+                "uid": "E2FD8BC584124942224ACAD45737D054CFBC",
+                "backup": false
+            },
+            {
+                "uid": "F2596E48846A2548E98A2AB2A2F1DABF9942",
+                "backup": false
+            }
+        ],
+        "relatedResources": [
+            {
+                "name": "m-checkbox-large-off.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "m-checkbox-large-off.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "m-checkbox-large-on .png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "m-checkbox-large-on .png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "m-checkbox-small-off.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "m-checkbox-small-off.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "m-checkbox-small-on .png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "m-checkbox-small-on .png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "msg-checkbox-small-off.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "msg-checkbox-small-off.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "msg-checkbox-small-on.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "msg-checkbox-small-on.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "pixeldropshadow.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "pixeldropshadow.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "pixelentrybox.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "pixelentrybox.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "pixelscrollbar.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "pixelscrollbar.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "pixelselection.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "pixelselection.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "pixelselection-inactive.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "pixelselection-inactive.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "pixelskin-frame.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "pixelskin-frame.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "pixelskin-stretch.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "pixelskin-stretch.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "pixelskin-tile.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "pixelskin-tile.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "pixelthumbnailshadow.png",
+                "type": "graphic",
+                "folderPath": "Graphics/Pictures",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "27D3342C2B4DF84F0E1A431342D8DB416202",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "pixelthumbnailshadow.png",
+                        "mainFolder": "Graphics/Pictures",
+                        "type": "graphic",
+                        "parent": "27D3342C2B4DF84F0E1A431342D8DB416202"
+                    }
+                ]
+            },
+            {
+                "name": "Power Clear.woff",
+                "type": "graphic",
+                "folderPath": "Graphics/Fonts",
+                "treePath": [
+                    {
+                        "name": "[FS] Cell Phone UI",
+                        "uid": "1338D5CE250D7447D52894B2C1DA00C35652",
+                        "type": "folder"
+                    },
+                    {
+                        "name": "Power Clear.woff",
+                        "mainFolder": "Graphics/Fonts",
+                        "type": "graphic",
+                        "parent": "1338D5CE250D7447D52894B2C1DA00C35652"
+                    }
+                ]
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

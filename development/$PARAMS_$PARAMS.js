@@ -5,7 +5,8 @@ if (!window.$PARAMS) { window.$PARAMS = {} };Object.mixin(window.$PARAMS, {
     },
     "fontFamilies": [
         "Rubik-Regular",
-        "Tallys"
+        "Tallys",
+        "1338D5CE250D7447D52894B2C1DA00C35652"
     ],
     "testOffline": true,
     "isOffline": true,

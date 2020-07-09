@@ -1,0 +1,21 @@
+{
+    "uid": "C45AD75B463B46457F58DDA730F97021C7B6",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Config",
+        "type": "game_script",
+        "order": 0,
+        "content": "(function() {\n    let config = window.MOE.CoreEngine.Config;\n    let loadConfig = function () {\n        let configRecord = RecordManager.moeCoreEngine[0];\n    };\n    \n    class RecordManagerCoreEngineConfig extends window.RecordManager.constructor {\n        initialize() {\n            super.initialize();\n            loadConfig();\n        }\n    }\n    \n    window.RecordManager = new RecordManagerCoreEngineConfig();\n}());",
+        "parentId": "E2B852353F6D2749603ADE63E3B4C2AE732E",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "(function() {\n    let config = window.MOE.CoreEngine.Config;\n    let loadConfig = function () {\n        let configRecord = RecordManager.moeCoreEngine[0];\n    };\n    \n    class RecordManagerCoreEngineConfig extends window.RecordManager.constructor {\n        initialize() {\n            super.initialize();\n            loadConfig();\n        }\n    }\n    \n    window.RecordManager = new RecordManagerCoreEngineConfig();\n}());",
+        "replacedByExtension": "moe.yami.CoreEngine"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

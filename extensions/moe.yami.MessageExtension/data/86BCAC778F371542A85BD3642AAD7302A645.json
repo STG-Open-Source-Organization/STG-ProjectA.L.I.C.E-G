@@ -1,0 +1,14 @@
+{
+    "uid": "86BCAC778F371542A85BD3642AAD7302A645",
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Namespace",
+        "type": "game_script",
+        "order": 0,
+        "content": "window.MOE = window.MOE || {};\nwindow.MOE.MessageTokens = {};",
+        "parentId": "2F501F3D88195240E46A5D976F155D0461DE",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "window.MOE = window.MOE || {};\nwindow.MOE.MessageTokens = {};"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "uid": "0A90532D6EDE6640F68ADE843896B575B866",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Components",
+        "type": "game_script",
+        "order": 2,
+        "content": "",
+        "parentId": "E1629B442CB8A34E54994F161F82A4182D06",
+        "folder": true,
+        "scriptType": 0,
+        "replacedByExtension": "moe.yami.CoreEngine"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

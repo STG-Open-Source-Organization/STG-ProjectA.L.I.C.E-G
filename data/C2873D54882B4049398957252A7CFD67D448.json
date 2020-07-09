@@ -1,0 +1,17 @@
+{
+    "uid": "C2873D54882B4049398957252A7CFD67D448",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "document_folder",
+        "name": "System",
+        "parentId": "15DE46472170424E14682EA2CE6E7941B29A",
+        "order": 0,
+        "rawContent": "{}"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

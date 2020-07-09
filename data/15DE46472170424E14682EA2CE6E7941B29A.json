@@ -1,0 +1,17 @@
+{
+    "uid": "15DE46472170424E14682EA2CE6E7941B29A",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "document_folder",
+        "name": "Scene Commands",
+        "parentId": "7AEF2C941E3CB249D6687FF0AA06AD0F4861",
+        "order": 1,
+        "rawContent": "{}"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

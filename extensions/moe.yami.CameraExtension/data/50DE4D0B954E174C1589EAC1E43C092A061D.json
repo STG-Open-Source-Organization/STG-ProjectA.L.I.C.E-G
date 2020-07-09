@@ -1,0 +1,20 @@
+{
+    "uid": "50DE4D0B954E174C1589EAC1E43C092A061D",
+    "lastModificationTime": 0,
+    "items": {
+        "name": "MoeCameraExtension",
+        "type": "application_language_bundle",
+        "parentId": "D08274143F3307442148A7710AACA018FF15",
+        "order": 3,
+        "phrases": {
+            "7E94095888F844468F28C2314BB6A31836B9": "Pan Layer",
+            "6FDAFC9F2159C648ED58647509D19B0657B7": "Layer",
+            "CA154ECC1A9C55409A6A8CB27EC2F5AC6DA6": "Backgrounds",
+            "5D3DDE1D6FA7154A5A59A7189D2ADA76B21B": "Pictures",
+            "A8E64F6E7E48C3461B895A38C75ACD22AFC7": "Characters",
+            "ECA7F3104FD71343B619C1D511F4CAF3F822": "Zoom Layer",
+            "F74E69BF4014144AE17BF2E21D7D034A119A": "Rotate Layer"
+        },
+        "rawContent": "{\n    \"name\": \"MoeCameraExtension\",\n    \"type\": \"application_language_bundle\",\n    \"parentId\": \"D08274143F3307442148A7710AACA018FF15\",\n    \"order\": 3,\n    \"phrases\": {\n        \"7E94095888F844468F28C2314BB6A31836B9\": \"Pan Layer\",\n        \"6FDAFC9F2159C648ED58647509D19B0657B7\": \"Layer\",\n        \"CA154ECC1A9C55409A6A8CB27EC2F5AC6DA6\": \"Backgrounds\",\n        \"5D3DDE1D6FA7154A5A59A7189D2ADA76B21B\": \"Pictures\",\n        \"A8E64F6E7E48C3461B895A38C75ACD22AFC7\": \"Characters\",\n        \"ECA7F3104FD71343B619C1D511F4CAF3F822\": \"Zoom Layer\",\n        \"F74E69BF4014144AE17BF2E21D7D034A119A\": \"Rotate Layer\"\n    }\n}"
+    }
+}

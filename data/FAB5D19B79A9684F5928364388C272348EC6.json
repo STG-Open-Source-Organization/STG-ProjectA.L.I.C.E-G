@@ -1,0 +1,36 @@
+{
+    "uid": "FAB5D19B79A9684F5928364388C272348EC6",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "parentId": "7D04354E2809364AFB592258A6D5A9D83FAE",
+        "category": "moeCoreEngine",
+        "order": 0,
+        "descriptor": {
+            "name": "Moe - Core Engine",
+            "attribute": "moeCoreEngine",
+            "sections": [
+                {
+                    "name": "$$MoeCoreEngine.3FC8A4BA3E33724A9E1BF9C1E03EBF7DB3BA",
+                    "items": [
+                        {
+                            "type": "GSSpacer",
+                            "frame": [
+                                0,
+                                2
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "rawContent": "{\n    \"parentId\": \"162D231FKB332A48FCS9A94E205403CA352B\",\n    \"category\": \"moeCoreEngine\",\n    \"order\": 10,\n    \"descriptor\": {\n        \"name\": \"Moe - Core Engine\",\n        \"attribute\": \"moeCoreEngine\",\n        \"sections\": [\n            {\n                \"name\": \"$$MoeCoreEngine.3FC8A4BA3E33724A9E1BF9C1E03EBF7DB3BA\",\n                \"items\": [\n                    {\n                        \"type\": \"GSSpacer\",\n                        \"frame\": [0, 2]\n                    }\n                ]\n            }\n        ]\n    }\n}",
+        "name": "Moe - Core Engine",
+        "type": "DataRecordView"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

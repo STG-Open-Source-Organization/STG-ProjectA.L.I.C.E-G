@@ -1,0 +1,14 @@
+{
+    "uid": "57D148DC75E0A84B3E586723B5420BBD3D81",
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Moe - Camera Extension",
+        "type": "game_script",
+        "order": 10,
+        "content": "",
+        "parentId": "ROOT",
+        "folder": true,
+        "scriptType": 0,
+        "decoded": true
+    }
+}

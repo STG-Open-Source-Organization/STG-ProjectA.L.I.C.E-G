@@ -1,0 +1,20 @@
+{
+    "uid": "45436B783DBE45420368274395F824838391",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Moe - Message Extension",
+        "type": "game_script",
+        "order": 16,
+        "content": "",
+        "parentId": "ROOT",
+        "folder": true,
+        "scriptType": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

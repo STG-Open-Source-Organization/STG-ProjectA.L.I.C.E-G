@@ -434,7 +434,7 @@
             "items": {
                 "name": "Main",
                 "type": "game_script",
-                "order": 8
+                "order": 15
             }
         },
         "EA69DA63K0929A40BCSA42DE3A02853789EF": {
@@ -466,7 +466,7 @@
             "items": {
                 "name": "Sprites",
                 "type": "game_script",
-                "order": 1
+                "order": 2
             }
         },
         "0C1D8BE8KDB63A469AS9782EB90E63254DB3": {
@@ -480,21 +480,21 @@
             "items": {
                 "name": "Managers",
                 "type": "game_script",
-                "order": 2
+                "order": 3
             }
         },
         "C2F9A7C9K48FFA4390S9F39E2E3A8A1D7221": {
             "items": {
                 "name": "Constants",
                 "type": "game_script",
-                "order": 0
+                "order": 1
             }
         },
         "2EC9F946K6417A4973S8308E368608E89B8B": {
             "items": {
                 "name": "Helpers",
                 "type": "game_script",
-                "order": 7
+                "order": 11
             }
         },
         "206B9F77K691EA41C9S92ADE3DC60464A57F": {
@@ -705,7 +705,7 @@
             "items": {
                 "name": "Components",
                 "type": "game_script",
-                "order": 3
+                "order": 4
             }
         },
         "B333A615K38FAA45B8SA13EE1AADAF98EFAF": {
@@ -719,7 +719,7 @@
             "items": {
                 "name": "Objects",
                 "type": "game_script",
-                "order": 4
+                "order": 5
             }
         },
         "19D5B266K1082A4D01S85D0E17BE2BBA69F8": {
@@ -892,7 +892,7 @@
             "items": {
                 "name": "Layouts",
                 "type": "game_script",
-                "order": 6
+                "order": 7
             }
         },
         "469AC05AK5413A4BBFSBB84ED1385A919FC4": {
@@ -1999,7 +1999,7 @@
         },
         "AFAD6CEFK59C1A4298SBABFE7AEC1B964622": {
             "items": {
-                "name": "Scene Commands",
+                "name": "Commands",
                 "type": "document_folder"
             }
         },
@@ -4154,7 +4154,7 @@
             "items": {
                 "name": "Show Message Box",
                 "type": "data_record",
-                "order": 1
+                "order": 0
             }
         },
         "EA06470D8140964F0749A8D76577A39B05E1": {
@@ -4168,7 +4168,7 @@
             "items": {
                 "name": "Update Name Box",
                 "type": "data_record",
-                "order": 7
+                "order": 6
             }
         },
         "232F08772D91E44D10380D14842B92CA796A": {
@@ -4182,7 +4182,7 @@
             "items": {
                 "name": "Open Load Menu",
                 "type": "data_record",
-                "order": 10
+                "order": 9
             }
         },
         "6E22FF5D1C6A79487128F7B5BAFF232629A8": {
@@ -4196,7 +4196,7 @@
             "items": {
                 "name": "Toggle Auto Message",
                 "type": "data_record",
-                "order": 9
+                "order": 8
             }
         },
         "AD72122467BE0948243903965AF18BCA300F": {
@@ -4270,7 +4270,7 @@
             "items": {
                 "name": "Show Log",
                 "type": "data_record",
-                "order": 8
+                "order": 7
             }
         },
         "49DC3EE6267197419859C9E4D23776294B50": {
@@ -4351,7 +4351,7 @@
             "items": {
                 "name": "Effects",
                 "type": "game_script",
-                "order": 5
+                "order": 6
             }
         },
         "D3A4011838BF80460B58F607AF6563D9221E": {
@@ -4370,7 +4370,7 @@
             "items": {
                 "name": "In-Game UI",
                 "type": "game_script",
-                "order": 7
+                "order": 8
             }
         },
         "C0BC8A06491A63453559E6282D9822554834": {
@@ -4629,14 +4629,14 @@
             "items": {
                 "name": "Hide UI",
                 "type": "data_record",
-                "order": 11
+                "order": 10
             }
         },
         "DA51207E7F3FC74C7988FDF0FCE5486E2A67": {
             "items": {
                 "name": "Hide Log",
                 "type": "data_record",
-                "order": 12
+                "order": 11
             }
         },
         "469A263B577390473C69B1A564943205E6A0": {
@@ -5028,6 +5028,695 @@
                 "name": "桐谷薇(Kirigaya wila)",
                 "type": "data_record",
                 "order": 8
+            }
+        },
+        "C53B746D309B814B9A6B91C7CDD0A0D4F6C1": {
+            "items": {
+                "name": "STG logo",
+                "type": "vn.scene",
+                "parentId": "0680E2763533F740B54A6C139E537CF59C20",
+                "chapterUid": "0680E2763533F740B54A6C139E537CF59C20",
+                "order": 6
+            }
+        },
+        "0CC95700875F0349D078C4472715D3775AE4": {
+            "items": {
+                "name": "新文件",
+                "type": "script",
+                "parentId": "162D231FKB332A48FCS9A94E205403CA352B"
+            }
+        },
+        "D0B9A0D42E18054ED44828A42BA3152B3B45": {
+            "items": {
+                "name": "LEDA_Better_Auto_Screen_Scaling",
+                "type": "game_script",
+                "order": 0
+            }
+        },
+        "8DD53A482E6B29415B792E428834861B9B81": {
+            "items": {
+                "name": "新記錄",
+                "type": "data_record",
+                "order": 12
+            }
+        },
+        "BE53CEF31018E949B45BBEF30DC2E9DEFD8F": {
+            "items": {
+                "name": "Cell Phone UI",
+                "type": "extension"
+            }
+        },
+        "02A34AFF71655741431B7D85C2E8C49ECC08": {
+            "items": {
+                "name": "Layout_Title",
+                "type": "game_script"
+            }
+        },
+        "236DC7CD862F424D897950956E37D4F6E7D2": {
+            "items": {
+                "name": "Template_OptionButton",
+                "type": "game_script"
+            }
+        },
+        "2AA11064321135426F6819D318CB6FA7D04F": {
+            "items": {
+                "name": "Persistent Variables",
+                "type": "persistent_variables"
+            }
+        },
+        "2FCC0E1F2250064F58792FB86FC570946AAF": {
+            "items": {
+                "name": "Layout_SaveMenu",
+                "type": "game_script"
+            }
+        },
+        "38DF9394685D034B2A2961342F70659023F3": {
+            "items": {
+                "name": "Template_MessageBox",
+                "type": "game_script"
+            }
+        },
+        "489C3A544FB8E14DE63BE718FA94A56784DD": {
+            "items": {
+                "name": "Layout_CGGallery",
+                "type": "game_script"
+            }
+        },
+        "5E6772DE3767E142CD9B61B2C5E27A823DD9": {
+            "items": {
+                "name": "Layout_SettingsMessage",
+                "type": "game_script"
+            }
+        },
+        "6B9371395D67634F505A1F57EEAD88EC9F84": {
+            "items": {
+                "name": "README",
+                "type": "game_script"
+            }
+        },
+        "6C64DB7E8358C540B35B0D32B2EF0417E3BA": {
+            "items": {
+                "name": "Layout_SettingsAudio",
+                "type": "game_script"
+            }
+        },
+        "8FA6A85D89B70843CC4B1E7648C1E698BFED": {
+            "items": {
+                "name": "Styles",
+                "type": "game_script"
+            }
+        },
+        "9368DABD47ED37482E7B30B27597182CD4F0": {
+            "items": {
+                "name": "Global Variables",
+                "type": "global_variables"
+            }
+        },
+        "9CD6AEA52665F54A8F8B3ED7C6ADBB7CBD40": {
+            "items": {
+                "name": "Template_Slider",
+                "type": "game_script"
+            }
+        },
+        "AC7645BB2F2CA043685B6CC28DCB7E6F801F": {
+            "items": {
+                "name": "Template_MessageBoxMenu",
+                "type": "game_script"
+            }
+        },
+        "B5600CAE322AD748FB2A0A4877F8A1357D31": {
+            "items": {
+                "name": "Components",
+                "type": "game_script"
+            }
+        },
+        "B5A0EC558D2C79446E6AD6A8E4DE982875A6": {
+            "items": {
+                "name": "Layout_SettingsMenu",
+                "type": "game_script"
+            }
+        },
+        "B9DB12F668CB83473A395CC307F64FA3D213": {
+            "items": {
+                "name": "[FS] Cell Phone UI",
+                "type": "game_script",
+                "order": 9
+            }
+        },
+        "BA7D7CFC499A6242824B7BE7E84FA194D45A": {
+            "items": {
+                "name": "Layout_CGGalleryEntry",
+                "type": "game_script"
+            }
+        },
+        "BD6634BB31A3A848AC4882002DEE09566841": {
+            "items": {
+                "name": "Layout_LanguageMenu",
+                "type": "game_script"
+            }
+        },
+        "BE1AD21E41B9B14AB5283CB21B320E7C7365": {
+            "items": {
+                "name": "[FS] CellPhoneUI_Constants",
+                "type": "game_script"
+            }
+        },
+        "CC2ABB6E28AFB345556B1ED6912E91138477": {
+            "items": {
+                "name": "Layouts",
+                "type": "game_script"
+            }
+        },
+        "D4E8F7B8334A044A55797222E5CB36CE6BDD": {
+            "items": {
+                "name": "Style_Default",
+                "type": "game_script"
+            }
+        },
+        "E096FFF13B5179435A092AF17BB3D33DC52C": {
+            "items": {
+                "name": "Layout_SettingsGeneral",
+                "type": "game_script"
+            }
+        },
+        "E2FD8BC584124942224ACAD45737D054CFBC": {
+            "items": {
+                "name": "Layout_LoadMenu",
+                "type": "game_script"
+            }
+        },
+        "F2596E48846A2548E98A2AB2A2F1DABF9942": {
+            "items": {
+                "name": "Layout_Game",
+                "type": "game_script"
+            }
+        },
+        "6B965B8A24B63640B36847E2B029642BDC24": {
+            "items": {
+                "name": "Global Variables",
+                "type": "global_variables"
+            }
+        },
+        "73DA85941B8C92477149CD34FD736821BCAB": {
+            "items": {
+                "name": "SceneBasedUI_RightClickSave",
+                "type": "game_script"
+            }
+        },
+        "9AE7757E4864D646013B6659E1E051ABF439": {
+            "items": {
+                "name": "Persistent Variables",
+                "type": "persistent_variables"
+            }
+        },
+        "0A90532D6EDE6640F68ADE843896B575B866": {
+            "items": {
+                "name": "Components",
+                "type": "game_script"
+            }
+        },
+        "0C06FD6A5434334A808A4DB6A0C5A28C6231": {
+            "items": {
+                "name": "Global Variables",
+                "type": "global_variables"
+            }
+        },
+        "21FEA5E0582E564CA68ACF55CC5C4A5ECA55": {
+            "items": {
+                "name": "Constants",
+                "type": "game_script"
+            }
+        },
+        "3A98217D6EC49241223817B97CC4668B526F": {
+            "items": {
+                "name": "Moe - Core Engine",
+                "type": "document_folder"
+            }
+        },
+        "45D2838F2613B24239582BA4F1A78EE2AEB5": {
+            "items": {
+                "name": "Core Engine",
+                "type": "data_record"
+            }
+        },
+        "7D04354E2809364AFB592258A6D5A9D83FAE": {
+            "items": {
+                "name": "Data Record Views",
+                "type": "document_folder"
+            }
+        },
+        "A5CC5A825AE5F94DE77A42821B754018616D": {
+            "items": {
+                "name": "Namespace",
+                "type": "game_script"
+            }
+        },
+        "BBE2F18D7752A541702B4F448766D05ABC98": {
+            "items": {
+                "name": "MessageTextRenderer",
+                "type": "game_script"
+            }
+        },
+        "C45AD75B463B46457F58DDA730F97021C7B6": {
+            "items": {
+                "name": "Config",
+                "type": "game_script"
+            }
+        },
+        "CE3886D54BCC34425988A0C9172BA6217C8D": {
+            "items": {
+                "name": "Persistent Variables",
+                "type": "persistent_variables"
+            }
+        },
+        "DACBCCC46B602444D22964A7638E7E30B546": {
+            "items": {
+                "name": "MoeCoreEngine",
+                "type": "application_language_bundle"
+            }
+        },
+        "E1629B442CB8A34E54994F161F82A4182D06": {
+            "items": {
+                "name": "Moe - Core Engine",
+                "type": "game_script",
+                "order": 10
+            }
+        },
+        "E2B852353F6D2749603ADE63E3B4C2AE732E": {
+            "items": {
+                "name": "Loaders",
+                "type": "game_script"
+            }
+        },
+        "FAB5D19B79A9684F5928364388C272348EC6": {
+            "items": {
+                "name": "Moe - Core Engine",
+                "type": "DataRecordView"
+            }
+        },
+        "FFC6E1B13A90B844A87AD183D36D0EB678BF": {
+            "items": {
+                "name": "README",
+                "type": "game_script"
+            }
+        },
+        "F472A49C8806C945EB3B33129229C1C01C9F": {
+            "items": {
+                "name": "Core Engine",
+                "type": "extension"
+            }
+        },
+        "E81B6349777C594E9D18C737B1CC29E87DDB": {
+            "items": {
+                "name": "Super Message Editor",
+                "type": "extension"
+            }
+        },
+        "1A3009B764B23644486B7AF20E8565E62030": {
+            "items": {
+                "name": "SumRndmDde Extensions",
+                "type": "document_folder"
+            }
+        },
+        "2D6DDCFB823A264D876851404FED829E5C22": {
+            "items": {
+                "name": "SRD_SuperMessageEditor",
+                "type": "event_command"
+            }
+        },
+        "65C4214A2B674749414827D148BC72E75573": {
+            "items": {
+                "name": "SRD_SuperMessageEditor",
+                "type": "script"
+            }
+        },
+        "934EEFB56FCD83468D7BAD12AA152EFDC942": {
+            "items": {
+                "name": "SumRndmDde Bundles",
+                "type": "document_folder"
+            }
+        },
+        "B44250B85DB9E94A2B4B36C381B3B249C56A": {
+            "items": {
+                "name": "Persistent Variables",
+                "type": "persistent_variables"
+            }
+        },
+        "D1CE237F11317043EE98FBA68FE7130CED1D": {
+            "items": {
+                "name": "SRD_SuperMessageEditor",
+                "type": "application_language_bundle"
+            }
+        },
+        "D94DB100743D3041A36BDD9710A7C3C37DE2": {
+            "items": {
+                "name": "SRD_SuperMessageEditor",
+                "type": "game_script"
+            }
+        },
+        "DD4FD1821620B747AC39A05179085474F201": {
+            "items": {
+                "name": "SumRndmDde Extensions",
+                "type": "game_script",
+                "order": 13
+            }
+        },
+        "EF63ADAE72ACC74E583B2482206C3A64349B": {
+            "items": {
+                "name": "Global Variables",
+                "type": "global_variables"
+            }
+        },
+        "FF737F6D85E218483628F9278BF6FDB8B0F9": {
+            "items": {
+                "name": "SumRndmDde Commands",
+                "type": "document_folder"
+            }
+        },
+        "28A356EB8637284B037BABD79D5524F133E5": {
+            "items": {
+                "name": "Camera Extension",
+                "type": "extension"
+            }
+        },
+        "023256DD7033974A410A0C219C107C0A068C": {
+            "items": {
+                "name": "Pan Layer",
+                "type": "event_command"
+            }
+        },
+        "07E3E485494C79415B68DB96D8372BD817F7": {
+            "items": {
+                "name": "Rotate Layer",
+                "type": "event_command"
+            }
+        },
+        "0A0BCE29546CA449FC48BBF524FF801E76C0": {
+            "items": {
+                "name": "Scripts",
+                "type": "document_folder"
+            }
+        },
+        "1900CA371A37B54A04298FA265606C24F026": {
+            "items": {
+                "name": "Scene Commands",
+                "type": "document_folder"
+            }
+        },
+        "50DE4D0B954E174C1589EAC1E43C092A061D": {
+            "items": {
+                "name": "MoeCameraExtension",
+                "type": "application_language_bundle"
+            }
+        },
+        "57D148DC75E0A84B3E586723B5420BBD3D81": {
+            "items": {
+                "name": "Moe - Camera Extension",
+                "type": "game_script",
+                "order": 14
+            }
+        },
+        "5A3CD9DB232B1741D41B1F088E789C37A1D7": {
+            "items": {
+                "name": "CommandInterpreter",
+                "type": "game_script"
+            }
+        },
+        "5EDA8C78875FE949D23A47B3C62081DA4C13": {
+            "items": {
+                "name": "Zoom Layer",
+                "type": "event_command"
+            }
+        },
+        "6F9888392207C845517AA7D58FC4C9351905": {
+            "items": {
+                "name": "Screen",
+                "type": "document_folder"
+            }
+        },
+        "72CAF167106F854BE6093656E3065E01A072": {
+            "items": {
+                "name": "Persistent Variables",
+                "type": "persistent_variables"
+            }
+        },
+        "AAC6FFCD61051242F25AD056AF94272B952E": {
+            "items": {
+                "name": "Global Variables",
+                "type": "global_variables"
+            }
+        },
+        "D08274143F3307442148A7710AACA018FF15": {
+            "items": {
+                "name": "Moe - Camera Extension",
+                "type": "document_folder"
+            }
+        },
+        "D9C918BE4B2BD0470A2BE73110D4E31D1898": {
+            "items": {
+                "name": "Format Helpers",
+                "type": "script"
+            }
+        },
+        "D9E3A0A74D6AE447F008D165B2D0F0AD9BD5": {
+            "items": {
+                "name": "Components",
+                "type": "game_script"
+            }
+        },
+        "DF61FFA61FFE084E623858E1BCF8AA21296E": {
+            "items": {
+                "name": "README",
+                "type": "game_script"
+            }
+        },
+        "1F3D452B44169942CE9A68B4EA38669E8A99": {
+            "items": {
+                "name": "Message Extension",
+                "type": "extension"
+            }
+        },
+        "2F501F3D88195240E46A5D976F155D0461DE": {
+            "items": {
+                "name": "Constants",
+                "type": "game_script"
+            }
+        },
+        "36E5ED176C0AF64D292870E19370863A5A01": {
+            "items": {
+                "name": "README",
+                "type": "game_script"
+            }
+        },
+        "45436B783DBE45420368274395F824838391": {
+            "items": {
+                "name": "Moe - Message Extension",
+                "type": "game_script",
+                "order": 16
+            }
+        },
+        "6E2FCD1369EFC5465D39D5D20AF6E3677A06": {
+            "items": {
+                "name": "Components",
+                "type": "game_script"
+            }
+        },
+        "7E7F275D85025841494B6BB04C64801220F1": {
+            "items": {
+                "name": "Global Variables",
+                "type": "global_variables"
+            }
+        },
+        "86BCAC778F371542A85BD3642AAD7302A645": {
+            "items": {
+                "name": "Namespace",
+                "type": "game_script"
+            }
+        },
+        "876BC0BB59041842133B7B6731F16649F88C": {
+            "items": {
+                "name": "MessageTextRenderer",
+                "type": "game_script"
+            }
+        },
+        "B31B8D6F6C07314C661A18F583287B3293C1": {
+            "items": {
+                "name": "Persistent Variables",
+                "type": "persistent_variables"
+            }
+        },
+        "EE58A683016657433559BE90877F1F4C613A": {
+            "items": {
+                "name": "Message Styles",
+                "type": "extension"
+            }
+        },
+        "2705BAFD361C3840D46A75F63DA66BA37969": {
+            "items": {
+                "name": "Link Styles",
+                "type": "game_script"
+            }
+        },
+        "44B1B9596AF64549911829214E197CE4575F": {
+            "items": {
+                "name": "Persistent Variables",
+                "type": "persistent_variables"
+            }
+        },
+        "4A94016527EA6149438AD9094B7973A831EF": {
+            "items": {
+                "name": "Global Variables",
+                "type": "global_variables"
+            }
+        },
+        "6FCF3AC54C9CD147FD2B86E626F500D3007B": {
+            "items": {
+                "name": "README",
+                "type": "game_script",
+                "order": 1
+            }
+        },
+        "78FE48744708B242636BC6235A85921A6FDD": {
+            "items": {
+                "name": "Moe - Message Styles",
+                "type": "game_script",
+                "order": 17
+            }
+        },
+        "F117250E536F9245AB19CFD15219CF333950": {
+            "items": {
+                "name": "Styles",
+                "type": "game_script",
+                "order": 0
+            }
+        },
+        "273A68385015B84EC87AD1E618C04EBE3DDA": {
+            "items": {
+                "name": "Quick Save",
+                "type": "extension"
+            }
+        },
+        "1029246D107735421F591AA1BD45278C7B75": {
+            "items": {
+                "name": "Template_MessageBoxMenu",
+                "type": "game_script"
+            }
+        },
+        "15DE46472170424E14682EA2CE6E7941B29A": {
+            "items": {
+                "name": "Scene Commands",
+                "type": "document_folder"
+            }
+        },
+        "2F0C102681B1334D6A4874E4994286CDEC95": {
+            "items": {
+                "name": "Moe - Quick Save",
+                "type": "game_script",
+                "order": 12
+            }
+        },
+        "467A76D5523748454E88C477863709F16C74": {
+            "items": {
+                "name": "Persistent Variables",
+                "type": "persistent_variables"
+            }
+        },
+        "7AEF2C941E3CB249D6687FF0AA06AD0F4861": {
+            "items": {
+                "name": "Moe - Quick Save",
+                "type": "document_folder"
+            }
+        },
+        "7B2E13826126B34CB08BD033960FD439074C": {
+            "items": {
+                "name": "README",
+                "type": "game_script"
+            }
+        },
+        "7C9EBEE855A0984AD4299128EC8418AE4415": {
+            "items": {
+                "name": "Layout",
+                "type": "game_script"
+            }
+        },
+        "83106DC14A82274954198619CD46BFD7EB0E": {
+            "items": {
+                "name": "Quick Save",
+                "type": "event_command"
+            }
+        },
+        "8D4586805EB56147D978ED4553B2E0448A68": {
+            "items": {
+                "name": "Components",
+                "type": "game_script"
+            }
+        },
+        "97C30FA30375C7420E4901C84E9A5CD7551A": {
+            "items": {
+                "name": "GameManager",
+                "type": "game_script"
+            }
+        },
+        "9A396F0A85AA4341396A50C7076C86C753B8": {
+            "items": {
+                "name": "MoeQuickSave",
+                "type": "application_language_bundle"
+            }
+        },
+        "B06626A177D7334AF1785408EC0A8A138465": {
+            "items": {
+                "name": "Global Variables",
+                "type": "global_variables"
+            }
+        },
+        "B327618846A98640BC780177F7F7A442D5D0": {
+            "items": {
+                "name": "Template_MessageBox",
+                "type": "game_script"
+            }
+        },
+        "C2873D54882B4049398957252A7CFD67D448": {
+            "items": {
+                "name": "System",
+                "type": "document_folder"
+            }
+        },
+        "D3B964D832703441554BEB343976CBE57F45": {
+            "items": {
+                "name": "Manager",
+                "type": "game_script"
+            }
+        },
+        "EE9E60F71EF6644B1E9A1EE5119EA69C88D0": {
+            "items": {
+                "name": "Quick Load",
+                "type": "event_command"
+            }
+        },
+        "F8DE497E79BB8548B1691487C66BF15EF827": {
+            "items": {
+                "name": "LayoutSceneBehavior",
+                "type": "game_script"
+            }
+        },
+        "FDC3E1CA8C40424E23286985B16BC33E40AA": {
+            "items": {
+                "name": "CommandInterpreter",
+                "type": "game_script"
+            }
+        },
+        "C151D67D6BB55748DB4812F9FAEE03710E1D": {
+            "items": {
+                "name": "button",
+                "type": "script",
+                "parentId": "3A98217D6EC49241223817B97CC4668B526F"
+            }
+        },
+        "37214FBE5FB75649212BCE05F281079D3AE5": {
+            "items": {
+                "name": "button",
+                "type": "script",
+                "parentId": "41E2CB852A75C4434D6B6FC4D46948394CC6"
             }
         }
     }

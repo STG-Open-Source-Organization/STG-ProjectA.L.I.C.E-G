@@ -1,0 +1,14 @@
+{
+    "uid": "2F0C102681B1334D6A4874E4994286CDEC95",
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Moe - Quick Save",
+        "type": "game_script",
+        "order": 9,
+        "content": "",
+        "parentId": "ROOT",
+        "folder": true,
+        "scriptType": 0,
+        "decoded": true
+    }
+}

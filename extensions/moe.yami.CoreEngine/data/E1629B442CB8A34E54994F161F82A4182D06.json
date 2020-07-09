@@ -1,0 +1,14 @@
+{
+    "uid": "E1629B442CB8A34E54994F161F82A4182D06",
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Moe - Core Engine",
+        "type": "game_script",
+        "order": 8,
+        "content": "",
+        "parentId": "ROOT",
+        "folder": true,
+        "scriptType": 0,
+        "decoded": true
+    }
+}

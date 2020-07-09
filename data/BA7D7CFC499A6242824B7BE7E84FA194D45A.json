@@ -1,0 +1,20 @@
+{
+    "uid": "BA7D7CFC499A6242824B7BE7E84FA194D45A",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "Layout_CGGalleryEntry",
+        "order": 9,
+        "content": "/**\n * [FS] Cell Phone UI\\Layouts\\Layout_CGGalleryEntry\n * Edits to the original Layouts\\Layout_CGGalleryEntry\n */\n \n ui.UiFactory.layouts.cgGalleryImageLayout = {\n    \"type\": \"ui.FreeLayout\",\n    \"orientation\": \"vertical\",\n    \"preload\": {\n        \"graphics\": [\n            { \"path\": ($(() => [$tempFields.selectedImage])), \"image\": ($(() => o))},\n            { \"path\": [\"locked\"], \"image\": ($(() => o))}\n        ]\n    },\n    \"frame\": [0, 0, Graphics.width, Graphics.height],\n    \"controls\": [\n        {\n            \"type\": \"ui.Image\",\n            \"frame\": [0, 0],\n            \"formulas\": [$(() => o.image = $tempFields.selectedImage)],\n            \"action\": { \"name\": \"executeFormulas\", \"params\": [$(() => $backButton.visible = !$backButton.visible)] }\n        },\n        {\n            \"type\": \"ui.Button\",\n            \"id\": \"backButton\",\n            \"params\": { \"text\": { \"lcId\": \"B0FD4BF121D9E44E7589CDD35869F86F2227\", \"defaultText\": \"Back\" }, \"action\": { \"name\": \"previousLayout\" } },\n            \"frame\": [Graphics.width - 170, 10, 150, 45],\n            \"order\": 1\n        }\n    ]\n};",
+        "parentId": "CC2ABB6E28AFB345556B1ED6912E91138477",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "/**\n * [FS] Cell Phone UI\\Layouts\\Layout_CGGalleryEntry\n * Edits to the original Layouts\\Layout_CGGalleryEntry\n */\n \n ui.UiFactory.layouts.cgGalleryImageLayout = {\n    \"type\": \"ui.FreeLayout\",\n    \"orientation\": \"vertical\",\n    \"preload\": {\n        \"graphics\": [\n            { \"path\": ($(() => [$tempFields.selectedImage])), \"image\": ($(() => o))},\n            { \"path\": [\"locked\"], \"image\": ($(() => o))}\n        ]\n    },\n    \"frame\": [0, 0, Graphics.width, Graphics.height],\n    \"controls\": [\n        {\n            \"type\": \"ui.Image\",\n            \"frame\": [0, 0],\n            \"formulas\": [$(() => o.image = $tempFields.selectedImage)],\n            \"action\": { \"name\": \"executeFormulas\", \"params\": [$(() => $backButton.visible = !$backButton.visible)] }\n        },\n        {\n            \"type\": \"ui.Button\",\n            \"id\": \"backButton\",\n            \"params\": { \"text\": { \"lcId\": \"B0FD4BF121D9E44E7589CDD35869F86F2227\", \"defaultText\": \"Back\" }, \"action\": { \"name\": \"previousLayout\" } },\n            \"frame\": [Graphics.width - 170, 10, 150, 45],\n            \"order\": 1\n        }\n    ]\n};"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

@@ -1,0 +1,96 @@
+{
+    "uid": "28A356EB8637284B037BABD79D5524F133E5",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "extension",
+        "id": "moe.yami.CameraExtension",
+        "packageDescription": {
+            "id": "moe.yami.CameraExtension",
+            "organization": "",
+            "name": "Camera Extension",
+            "version": "1.0.0.0",
+            "author": "Dr.Yami",
+            "website": "http://vnm.yami.moe",
+            "description": "This extension adds more functions to game camera, such as manipulate camera for each layer (backgrounds, pictures or characters) instead of the whole screen.",
+            "license": "MIT License\n\nCopyright (c) Dr.Yami\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+        },
+        "organization": "",
+        "name": "Camera Extension",
+        "version": "1.0.0.0",
+        "author": "Dr.Yami",
+        "website": "http://vnm.yami.moe",
+        "description": "This extension adds more functions to game camera, such as manipulate camera for each layer (backgrounds, pictures or characters) instead of the whole screen.",
+        "license": "MIT License\n\nCopyright (c) Dr.Yami\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+        "preferences": {},
+        "active": true,
+        "relatedDocuments": [
+            {
+                "uid": "023256DD7033974A410A0C219C107C0A068C",
+                "backup": false
+            },
+            {
+                "uid": "07E3E485494C79415B68DB96D8372BD817F7",
+                "backup": false
+            },
+            {
+                "uid": "0A0BCE29546CA449FC48BBF524FF801E76C0",
+                "backup": false
+            },
+            {
+                "uid": "1900CA371A37B54A04298FA265606C24F026",
+                "backup": false
+            },
+            {
+                "uid": "50DE4D0B954E174C1589EAC1E43C092A061D",
+                "backup": false
+            },
+            {
+                "uid": "57D148DC75E0A84B3E586723B5420BBD3D81",
+                "backup": false
+            },
+            {
+                "uid": "5A3CD9DB232B1741D41B1F088E789C37A1D7",
+                "backup": false
+            },
+            {
+                "uid": "5EDA8C78875FE949D23A47B3C62081DA4C13",
+                "backup": false
+            },
+            {
+                "uid": "6F9888392207C845517AA7D58FC4C9351905",
+                "backup": false
+            },
+            {
+                "uid": "72CAF167106F854BE6093656E3065E01A072",
+                "backup": false
+            },
+            {
+                "uid": "AAC6FFCD61051242F25AD056AF94272B952E",
+                "backup": false
+            },
+            {
+                "uid": "D08274143F3307442148A7710AACA018FF15",
+                "backup": false
+            },
+            {
+                "uid": "D9C918BE4B2BD0470A2BE73110D4E31D1898",
+                "backup": false
+            },
+            {
+                "uid": "D9E3A0A74D6AE447F008D165B2D0F0AD9BD5",
+                "backup": false
+            },
+            {
+                "uid": "DF61FFA61FFE084E623858E1BCF8AA21296E",
+                "backup": false
+            }
+        ],
+        "relatedResources": []
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

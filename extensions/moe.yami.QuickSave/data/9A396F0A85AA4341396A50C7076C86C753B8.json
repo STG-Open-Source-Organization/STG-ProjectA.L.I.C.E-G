@@ -1,0 +1,15 @@
+{
+    "uid": "9A396F0A85AA4341396A50C7076C86C753B8",
+    "lastModificationTime": 0,
+    "items": {
+        "name": "MoeQuickSave",
+        "type": "application_language_bundle",
+        "parentId": "7AEF2C941E3CB249D6687FF0AA06AD0F4861",
+        "order": 0,
+        "phrases": {
+            "00BD98EE2AD5D74B6C58AB5595B543BE5DAF": "Quick Save",
+            "FDD3557F2E0C21468B2A3295E31CF07B5A88": "Quick Load"
+        },
+        "rawContent": "{\n    \"type\": \"application_language_bundle\",\n    \"name\": \"MoeQuickSave\",\n    \"parentId\": \"2B64D552KE2D4A49F9SB3A9EE72E018E0396\",\n    \"phrases\": {\n        \"00BD98EE2AD5D74B6C58AB5595B543BE5DAF\": \"Quick Save\",\n        \"FDD3557F2E0C21468B2A3295E31CF07B5A88\": \"Quick Load\"\n    },\n    \"order\": 0\n}"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "uid": "FFC6E1B13A90B844A87AD183D36D0EB678BF",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "README",
+        "type": "game_script",
+        "order": 3,
+        "content": "/**\n * Yami Engine Moe - Core Engine\n * \n * This extension is required by all Moe Engine Extensions. It includes all\n * user experience improvements and fixes some problems in VNM engine. The\n * fixes and improvements are able to toggle on/off easily.\n * \n * ============================================================================\n * Bugfixes\n * \n * > Stylable clickable link (SLK):\n *   | Fixed game crash when style id is omitted from text code\n *   | Fixed hover style not applied to SLK\n * \n */",
+        "parentId": "E1629B442CB8A34E54994F161F82A4182D06",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "/**\n * Yami Engine Moe - Core Engine\n * \n * This extension is required by all Moe Engine Extensions. It includes all\n * user experience improvements and fixes some problems in VNM engine. The\n * fixes and improvements are able to toggle on/off easily.\n * \n * ============================================================================\n * Bugfixes\n * \n * > Stylable clickable link (SLK):\n *   | Fixed game crash when style id is omitted from text code\n *   | Fixed hover style not applied to SLK\n * \n */",
+        "replacedByExtension": "moe.yami.CoreEngine"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

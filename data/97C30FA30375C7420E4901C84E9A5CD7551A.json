@@ -1,0 +1,20 @@
+{
+    "uid": "97C30FA30375C7420E4901C84E9A5CD7551A",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "GameManager",
+        "order": 0,
+        "content": "(function () {\n    class GameManagerQuickSave extends GameManager.constructor {\n        constructor() {\n            super();\n            this.quickSaveSlot = {};\n        }\n        \n        initialize() {\n            super.initialize();\n            this.createQuickSaveHeader();\n        }\n        \n        get quickSaveFilename() {\n            return \"SaveGame_Quick\";\n        }\n        \n        createQuickSaveHeader() {\n            let headerFile = `${this.quickSaveFilename}_Header`;\n            let header = {};\n            this.quickSaveSlot = {};\n            if (GameStorage.exists(headerFile)) {\n                header = GameStorage.getObject(headerFile);\n            }\n            this.quickSaveSlot.date = header.date;\n            return this.quickSaveSlot;\n        }\n        \n        quickSave() {\n            this.prepareSaveGame(true);\n            if (this.saveGame) {\n                let header = this.createSaveGameHeader();\n                this.quickSaveSlot = this.createSaveGameSlot(header);\n                this.storeSaveGame(this.quickSaveFilename, this.saveGame, header);\n                this.sceneData = {};\n            }\n            return this.saveGame;\n        }\n        \n        quickLoad() {\n            if (!this.quickSaveSlot || this.quickSaveSlot.date.trim().length === 0) {\n                return;\n            }\n        \n            this.prepareLoadGame();\n            this.loadedSaveGame = this.loadSaveGame(this.quickSaveFilename);\n            \n            SceneManager.switchTo(new vn.Object_Scene());\n            SceneManager.clear();\n        }\n    } \n    \n    window.GameManager = new GameManagerQuickSave();\n    gs.GameManager = window.GameManager;\n}());",
+        "parentId": "D3B964D832703441554BEB343976CBE57F45",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "(function () {\n    class GameManagerQuickSave extends GameManager.constructor {\n        constructor() {\n            super();\n            this.quickSaveSlot = {};\n        }\n        \n        initialize() {\n            super.initialize();\n            this.createQuickSaveHeader();\n        }\n        \n        get quickSaveFilename() {\n            return \"SaveGame_Quick\";\n        }\n        \n        createQuickSaveHeader() {\n            let headerFile = `${this.quickSaveFilename}_Header`;\n            let header = {};\n            this.quickSaveSlot = {};\n            if (GameStorage.exists(headerFile)) {\n                header = GameStorage.getObject(headerFile);\n            }\n            this.quickSaveSlot.date = header.date;\n            return this.quickSaveSlot;\n        }\n        \n        quickSave() {\n            this.prepareSaveGame(true);\n            if (this.saveGame) {\n                let header = this.createSaveGameHeader();\n                this.quickSaveSlot = this.createSaveGameSlot(header);\n                this.storeSaveGame(this.quickSaveFilename, this.saveGame, header);\n                this.sceneData = {};\n            }\n            return this.saveGame;\n        }\n        \n        quickLoad() {\n            if (!this.quickSaveSlot || this.quickSaveSlot.date.trim().length === 0) {\n                return;\n            }\n        \n            this.prepareLoadGame();\n            this.loadedSaveGame = this.loadSaveGame(this.quickSaveFilename);\n            \n            SceneManager.switchTo(new vn.Object_Scene());\n            SceneManager.clear();\n        }\n    } \n    \n    window.GameManager = new GameManagerQuickSave();\n    gs.GameManager = window.GameManager;\n}());"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

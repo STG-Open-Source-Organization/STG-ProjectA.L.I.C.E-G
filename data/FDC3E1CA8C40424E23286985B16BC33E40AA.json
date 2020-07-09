@@ -1,0 +1,20 @@
+{
+    "uid": "FDC3E1CA8C40424E23286985B16BC33E40AA",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "CommandInterpreter",
+        "order": 1,
+        "content": "(function() {\n    class CommandInterpreterQuickSave extends gs.Component_CommandInterpreter {\n        assignCommand (command) {\n            switch (command.id) {\n                case \"moe.QuickSave\":\n                    command.execute = this.commandQuickSave;\n                    break;\n                case \"moe.QuickLoad\":\n                    command.execute = this.commandQuickLoad;\n                    break;\n                default:\n                    super.assignCommand(command);\n            }   \n        }\n        \n        commandQuickSave() {\n            GameManager.quickSave();\n        }\n        \n        commandQuickLoad() {\n            GameManager.quickLoad();\n        }\n    }\n    \n    window.CommandInterpreter = CommandInterpreterQuickSave;\n    gs.Component_CommandInterpreter = CommandInterpreterQuickSave;\n}());",
+        "parentId": "8D4586805EB56147D978ED4553B2E0448A68",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "(function() {\n    class CommandInterpreterQuickSave extends gs.Component_CommandInterpreter {\n        assignCommand (command) {\n            switch (command.id) {\n                case \"moe.QuickSave\":\n                    command.execute = this.commandQuickSave;\n                    break;\n                case \"moe.QuickLoad\":\n                    command.execute = this.commandQuickLoad;\n                    break;\n                default:\n                    super.assignCommand(command);\n            }   \n        }\n        \n        commandQuickSave() {\n            GameManager.quickSave();\n        }\n        \n        commandQuickLoad() {\n            GameManager.quickLoad();\n        }\n    }\n    \n    window.CommandInterpreter = CommandInterpreterQuickSave;\n    gs.Component_CommandInterpreter = CommandInterpreterQuickSave;\n}());"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

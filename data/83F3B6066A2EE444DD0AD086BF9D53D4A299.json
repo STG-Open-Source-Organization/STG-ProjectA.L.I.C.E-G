@@ -76,25 +76,31 @@
                     "number": 100,
                     "hotspots": [
                         {
-                            "x": 902,
-                            "y": 84,
+                            "x": 0,
+                            "y": 265,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 424,
-                                "y": 346,
-                                "width": 92,
-                                "height": 37,
+                                "x": 0,
+                                "y": 265,
+                                "width": 415,
+                                "height": 64,
                                 "action": 1,
                                 "label": "back",
                                 "bindToSwitch": false,
                                 "bindEnabledState": false,
+                                "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
-                                "horizontalFlip": false,
-                                "commonEventId": "5FDD1950K9FA1A4BCCSB00CEE54C8BC8AE54"
+                                "horizontalFlip": false
                             },
                             "color": {
                                 "red": 0,
@@ -103,35 +109,41 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 166,
-                                "height": 117
+                                "width": 415,
+                                "height": 64
                             }
                         },
                         {
-                            "x": 1793,
-                            "y": 181,
+                            "x": 1851,
+                            "y": 117,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 1793,
-                                "y": 181,
-                                "width": 72,
-                                "height": 88,
+                                "x": 1851,
+                                "y": 117,
+                                "width": 69,
+                                "height": 64,
                                 "action": 1,
                                 "label": "page1",
                                 "bindToSwitch": true,
                                 "switch": {
-                                    "name": "Page 1",
+                                    "name": "Page 1 ",
                                     "index": 0,
                                     "scope": 0
                                 },
                                 "bindEnabledState": false,
+                                "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
-                                "horizontalFlip": false,
-                                "commonEventId": "5FDD1950K9FA1A4BCCSB00CEE54C8BC8AE54"
+                                "horizontalFlip": false
                             },
                             "color": {
                                 "red": 0,
@@ -140,35 +152,43 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 72,
-                                "height": 88
+                                "width": 69,
+                                "height": 64
                             }
                         },
                         {
-                            "x": 1793,
-                            "y": 268,
+                            "x": 1851,
+                            "y": 202,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 624,
-                                "y": 116,
-                                "width": 45,
-                                "height": 52,
+                                "x": 1851,
+                                "y": 202,
+                                "width": 69,
+                                "height": 64,
                                 "action": 1,
                                 "label": "page2",
                                 "bindToSwitch": true,
                                 "switch": {
-                                    "name": "Page 2",
+                                    "name": "Backlog Opened",
                                     "index": 1,
-                                    "scope": 0
+                                    "scope": 1,
+                                    "changed": true,
+                                    "domain": "com.degica.vnm.default"
                                 },
                                 "bindEnabledState": false,
+                                "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
-                                "horizontalFlip": false,
-                                "commonEventId": "5FDD1950K9FA1A4BCCSB00CEE54C8BC8AE54"
+                                "horizontalFlip": false
                             },
                             "color": {
                                 "red": 0,
@@ -177,35 +197,42 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 77,
-                                "height": 88
+                                "width": 69,
+                                "height": 64
                             }
                         },
                         {
-                            "x": 1792,
-                            "y": 355,
+                            "x": 1851,
+                            "y": 287,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 742,
-                                "y": 103,
-                                "width": 48,
-                                "height": 55,
+                                "x": 1851,
+                                "y": 287,
+                                "width": 69,
+                                "height": 64,
                                 "action": 1,
                                 "label": "page3",
                                 "bindToSwitch": true,
                                 "switch": {
                                     "name": "Page 3",
                                     "index": 2,
-                                    "scope": 0
+                                    "scope": 1,
+                                    "domain": "com.degica.vnm.default"
                                 },
                                 "bindEnabledState": false,
+                                "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
-                                "horizontalFlip": false,
-                                "commonEventId": "5FDD1950K9FA1A4BCCSB00CEE54C8BC8AE54"
+                                "horizontalFlip": false
                             },
                             "color": {
                                 "red": 0,
@@ -214,35 +241,42 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 76,
-                                "height": 87
+                                "width": 69,
+                                "height": 64
                             }
                         },
                         {
-                            "x": 1792,
-                            "y": 442,
+                            "x": 1851,
+                            "y": 372,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 668,
-                                "y": 84,
-                                "width": 48,
-                                "height": 53,
+                                "x": 1851,
+                                "y": 372,
+                                "width": 69,
+                                "height": 64,
                                 "action": 1,
                                 "label": "page4",
                                 "bindToSwitch": true,
                                 "switch": {
                                     "name": "Page 4",
                                     "index": 3,
-                                    "scope": 0
+                                    "scope": 1,
+                                    "domain": "com.degica.vnm.default"
                                 },
                                 "bindEnabledState": false,
+                                "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
-                                "horizontalFlip": false,
-                                "commonEventId": "5FDD1950K9FA1A4BCCSB00CEE54C8BC8AE54"
+                                "horizontalFlip": false
                             },
                             "color": {
                                 "red": 0,
@@ -251,21 +285,21 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 77,
-                                "height": 89
+                                "width": 69,
+                                "height": 64
                             }
                         },
                         {
-                            "x": 1791,
-                            "y": 529,
+                            "x": 1851,
+                            "y": 457,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 1791,
-                                "y": 529,
-                                "width": 79,
-                                "height": 91,
+                                "x": 1851,
+                                "y": 457,
+                                "width": 69,
+                                "height": 64,
                                 "action": 1,
                                 "label": "page5",
                                 "bindToSwitch": true,
@@ -275,11 +309,17 @@
                                     "scope": 0
                                 },
                                 "bindEnabledState": false,
+                                "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
-                                "horizontalFlip": false,
-                                "commonEventId": "5FDD1950K9FA1A4BCCSB00CEE54C8BC8AE54"
+                                "horizontalFlip": false
                             },
                             "color": {
                                 "red": 0,
@@ -288,27 +328,33 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 79,
-                                "height": 91
+                                "width": 69,
+                                "height": 64
                             }
                         },
                         {
-                            "x": 906,
-                            "y": 276,
+                            "x": 759,
+                            "y": 117,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 919,
-                                "y": 288,
-                                "width": 216,
-                                "height": 122,
+                                "x": 759,
+                                "y": 117,
+                                "width": 230,
+                                "height": 136,
                                 "action": 1,
                                 "label": "slot1",
                                 "bindToSwitch": false,
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -320,27 +366,33 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 262,
-                                "height": 149
+                                "width": 230,
+                                "height": 136
                             }
                         },
                         {
-                            "x": 911,
-                            "y": 463,
+                            "x": 759,
+                            "y": 304,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 919,
-                                "y": 474,
-                                "width": 216,
-                                "height": 122,
+                                "x": 759,
+                                "y": 304,
+                                "width": 230,
+                                "height": 136,
                                 "action": 1,
                                 "label": "slot2",
                                 "bindToSwitch": false,
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -352,27 +404,33 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 252,
-                                "height": 145
+                                "width": 230,
+                                "height": 136
                             }
                         },
                         {
-                            "x": 910,
-                            "y": 651,
+                            "x": 759,
+                            "y": 491,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 919,
-                                "y": 664,
-                                "width": 216,
-                                "height": 122,
+                                "x": 759,
+                                "y": 491,
+                                "width": 230,
+                                "height": 136,
                                 "action": 1,
                                 "label": "slot3",
                                 "bindToSwitch": false,
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -384,27 +442,33 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 254,
-                                "height": 141
+                                "width": 230,
+                                "height": 136
                             }
                         },
                         {
-                            "x": 908,
-                            "y": 835,
+                            "x": 759,
+                            "y": 676,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 919,
-                                "y": 849,
-                                "width": 216,
-                                "height": 122,
+                                "x": 759,
+                                "y": 676,
+                                "width": 230,
+                                "height": 136,
                                 "action": 1,
                                 "label": "slot4",
                                 "bindToSwitch": false,
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -416,27 +480,33 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 258,
-                                "height": 145
+                                "width": 230,
+                                "height": 136
                             }
                         },
                         {
-                            "x": 1203,
-                            "y": 279,
+                            "x": 1052,
+                            "y": 117,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 1211,
-                                "y": 288,
-                                "width": 216,
-                                "height": 122,
+                                "x": 1052,
+                                "y": 117,
+                                "width": 230,
+                                "height": 136,
                                 "action": 1,
                                 "label": "slot5",
                                 "bindToSwitch": false,
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -448,27 +518,33 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 252,
-                                "height": 142
+                                "width": 230,
+                                "height": 136
                             }
                         },
                         {
-                            "x": 1202,
-                            "y": 465,
+                            "x": 1052,
+                            "y": 304,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 1211,
-                                "y": 482,
-                                "width": 216,
-                                "height": 122,
+                                "x": 1052,
+                                "y": 304,
+                                "width": 230,
+                                "height": 136,
                                 "action": 1,
                                 "label": "slot6",
                                 "bindToSwitch": false,
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -480,27 +556,33 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 253,
-                                "height": 142
+                                "width": 230,
+                                "height": 136
                             }
                         },
                         {
-                            "x": 1202,
-                            "y": 837,
+                            "x": 1052,
+                            "y": 676,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 1211,
-                                "y": 846,
-                                "width": 216,
-                                "height": 122,
+                                "x": 1052,
+                                "y": 676,
+                                "width": 230,
+                                "height": 136,
                                 "action": 1,
                                 "label": "slot8",
                                 "bindToSwitch": false,
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -512,27 +594,33 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 254,
-                                "height": 143
+                                "width": 230,
+                                "height": 136
                             }
                         },
                         {
-                            "x": 1202,
-                            "y": 651,
+                            "x": 1052,
+                            "y": 491,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 1211,
-                                "y": 660,
-                                "width": 216,
-                                "height": 122,
+                                "x": 1052,
+                                "y": 491,
+                                "width": 230,
+                                "height": 136,
                                 "action": 1,
                                 "label": "slot7",
                                 "bindToSwitch": false,
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -544,123 +632,33 @@
                                 "alpha": 160
                             },
                             "size": {
-                                "width": 255,
-                                "height": 142
+                                "width": 230,
+                                "height": 136
                             }
                         },
                         {
-                            "x": 1493,
-                            "y": 280,
+                            "x": 1345,
+                            "y": 117,
                             "angle": 0,
                             "zoom": 1,
                             "horizontalFlip": false,
                             "data": {
-                                "x": 1502,
-                                "y": 288,
-                                "width": 216,
-                                "height": 122,
+                                "x": 1345,
+                                "y": 117,
+                                "width": 230,
+                                "height": 136,
                                 "action": 1,
                                 "label": "slot9",
                                 "bindToSwitch": false,
                                 "bindEnabledState": false,
                                 "bindValueTo": false,
                                 "finish": false,
-                                "zoom": null,
-                                "angle": 0,
-                                "horizontalFlip": false
-                            },
-                            "color": {
-                                "red": 255,
-                                "green": 0,
-                                "blue": 255,
-                                "alpha": 130
-                            },
-                            "size": {
-                                "width": 253,
-                                "height": 140
-                            }
-                        },
-                        {
-                            "x": 1493,
-                            "y": 466,
-                            "angle": 0,
-                            "zoom": 1,
-                            "horizontalFlip": false,
-                            "data": {
-                                "x": 1502,
-                                "y": 474,
-                                "width": 216,
-                                "height": 122,
-                                "action": 1,
-                                "label": "slot10",
-                                "bindToSwitch": false,
-                                "bindEnabledState": false,
-                                "bindValueTo": false,
-                                "finish": false,
-                                "zoom": null,
-                                "angle": 0,
-                                "horizontalFlip": false
-                            },
-                            "color": {
-                                "red": 255,
-                                "green": 0,
-                                "blue": 255,
-                                "alpha": 130
-                            },
-                            "size": {
-                                "width": 253,
-                                "height": 140
-                            }
-                        },
-                        {
-                            "x": 1494,
-                            "y": 652,
-                            "angle": 0,
-                            "zoom": 1,
-                            "horizontalFlip": false,
-                            "data": {
-                                "x": 1502,
-                                "y": 660,
-                                "width": 216,
-                                "height": 122,
-                                "action": 1,
-                                "label": "slot11",
-                                "bindToSwitch": false,
-                                "bindEnabledState": false,
-                                "bindValueTo": false,
-                                "finish": false,
-                                "zoom": null,
-                                "angle": 0,
-                                "horizontalFlip": false
-                            },
-                            "color": {
-                                "red": 255,
-                                "green": 0,
-                                "blue": 255,
-                                "alpha": 130
-                            },
-                            "size": {
-                                "width": 253,
-                                "height": 141
-                            }
-                        },
-                        {
-                            "x": 1494,
-                            "y": 836,
-                            "angle": 0,
-                            "zoom": 1,
-                            "horizontalFlip": false,
-                            "data": {
-                                "x": 1502,
-                                "y": 846,
-                                "width": 216,
-                                "height": 122,
-                                "action": 1,
-                                "label": "slot12",
-                                "bindToSwitch": false,
-                                "bindEnabledState": false,
-                                "bindValueTo": false,
-                                "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
                                 "zoom": 1,
                                 "angle": 0,
                                 "horizontalFlip": false
@@ -672,8 +670,160 @@
                                 "alpha": 130
                             },
                             "size": {
-                                "width": 253,
-                                "height": 142
+                                "width": 230,
+                                "height": 136
+                            }
+                        },
+                        {
+                            "x": 1345,
+                            "y": 303,
+                            "angle": 0,
+                            "zoom": 1,
+                            "horizontalFlip": false,
+                            "data": {
+                                "x": 1345,
+                                "y": 303,
+                                "width": 230,
+                                "height": 136,
+                                "action": 1,
+                                "label": "slot10",
+                                "bindToSwitch": false,
+                                "bindEnabledState": false,
+                                "bindValueTo": false,
+                                "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
+                                "zoom": 1,
+                                "angle": 0,
+                                "horizontalFlip": false
+                            },
+                            "color": {
+                                "red": 255,
+                                "green": 0,
+                                "blue": 255,
+                                "alpha": 130
+                            },
+                            "size": {
+                                "width": 230,
+                                "height": 136
+                            }
+                        },
+                        {
+                            "x": 1342,
+                            "y": 491,
+                            "angle": 0,
+                            "zoom": 1,
+                            "horizontalFlip": false,
+                            "data": {
+                                "x": 1342,
+                                "y": 491,
+                                "width": 230,
+                                "height": 136,
+                                "action": 1,
+                                "label": "slot11",
+                                "bindToSwitch": false,
+                                "bindEnabledState": false,
+                                "bindValueTo": false,
+                                "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
+                                "zoom": 1,
+                                "angle": 0,
+                                "horizontalFlip": false
+                            },
+                            "color": {
+                                "red": 255,
+                                "green": 0,
+                                "blue": 255,
+                                "alpha": 130
+                            },
+                            "size": {
+                                "width": 230,
+                                "height": 136
+                            }
+                        },
+                        {
+                            "x": 1342,
+                            "y": 679,
+                            "angle": 0,
+                            "zoom": 1,
+                            "horizontalFlip": false,
+                            "data": {
+                                "x": 1342,
+                                "y": 679,
+                                "width": 230,
+                                "height": 136,
+                                "action": 1,
+                                "label": "slot12",
+                                "bindToSwitch": false,
+                                "bindEnabledState": false,
+                                "bindValueTo": false,
+                                "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
+                                "zoom": 1,
+                                "angle": 0,
+                                "horizontalFlip": false
+                            },
+                            "color": {
+                                "red": 255,
+                                "green": 0,
+                                "blue": 255,
+                                "alpha": 130
+                            },
+                            "size": {
+                                "width": 230,
+                                "height": 136
+                            }
+                        },
+                        {
+                            "x": 0,
+                            "y": 329,
+                            "angle": 0,
+                            "zoom": 1,
+                            "horizontalFlip": false,
+                            "data": {
+                                "x": 0,
+                                "y": 329,
+                                "width": 415,
+                                "height": 64,
+                                "action": 1,
+                                "label": "Load Menu",
+                                "bindToSwitch": false,
+                                "bindEnabledState": false,
+                                "bindValueTo": false,
+                                "finish": false,
+                                "onClickSound": {
+                                    "name": ""
+                                },
+                                "onHoverSound": {
+                                    "name": ""
+                                },
+                                "zoom": null,
+                                "angle": 0,
+                                "horizontalFlip": false
+                            },
+                            "color": {
+                                "red": 255,
+                                "green": 0,
+                                "blue": 255,
+                                "alpha": 130
+                            },
+                            "size": {
+                                "width": 415,
+                                "height": 64
                             }
                         }
                     ],
@@ -750,7 +900,7 @@
                         "name": "$live_preview_snapshot"
                     },
                     "fieldFlags": {
-                        "easing.type": 1,
+                        "easing.type": 0,
                         "animation.type": 0,
                         "zOrder": 1,
                         "blendMode": 1,
@@ -802,8 +952,8 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 920,
-                        "y": 289,
+                        "x": 766,
+                        "y": 123,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
@@ -903,8 +1053,8 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 920,
-                        "y": 475,
+                        "x": 766,
+                        "y": 311,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
@@ -1012,19 +1162,19 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 920,
-                        "y": 661,
+                        "x": 766,
+                        "y": 497,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
                         "data": {
                             "x": 920,
-                            "y": 662,
+                            "y": 661,
                             "zoom": 1,
                             "angle": 0,
                             "horizontalFlip": false,
-                            "width": 166,
-                            "height": 94
+                            "width": 217,
+                            "height": 122
                         },
                         "color": {
                             "red": 0,
@@ -1121,8 +1271,8 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 920,
-                        "y": 847,
+                        "x": 766,
+                        "y": 683,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
@@ -1230,8 +1380,8 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 1212,
-                        "y": 289,
+                        "x": 1058,
+                        "y": 123,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
@@ -1331,8 +1481,8 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 1212,
-                        "y": 475,
+                        "x": 1058,
+                        "y": 311,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
@@ -1440,19 +1590,19 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 1212,
-                        "y": 661,
+                        "x": 1058,
+                        "y": 497,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
                         "data": {
                             "x": 1212,
-                            "y": 662,
+                            "y": 661,
                             "zoom": 1,
                             "angle": 0,
                             "horizontalFlip": false,
-                            "width": 166,
-                            "height": 94
+                            "width": 217,
+                            "height": 122
                         },
                         "color": {
                             "red": 0,
@@ -1549,8 +1699,8 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 1212,
-                        "y": 847,
+                        "x": 1058,
+                        "y": 683,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
@@ -1658,8 +1808,8 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 1503,
-                        "y": 289,
+                        "x": 1351,
+                        "y": 123,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
@@ -1759,8 +1909,8 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 1503,
-                        "y": 475,
+                        "x": 1351,
+                        "y": 309,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
@@ -1860,8 +2010,8 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 1503,
-                        "y": 660,
+                        "x": 1349,
+                        "y": 498,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
@@ -1969,8 +2119,8 @@
                     "waitForCompletion": 0,
                     "positionType": 1,
                     "position": {
-                        "x": 1503,
-                        "y": 847,
+                        "x": 1349,
+                        "y": 685,
                         "angle": 0,
                         "zoom": 1,
                         "horizontalFlip": false,
@@ -2376,6 +2526,34 @@
                 "params": {},
                 "indent": 0,
                 "uid": "B2CFF6889F4AF64D98892472A5EA344DE34C"
+            },
+            {
+                "id": "gs.Idle",
+                "params": {},
+                "uid": "BB7829E899D8C944379B6B36FF650E7C6833",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "Load Menu"
+                },
+                "uid": "4F166413455165462959F4953F4D3B38CC84",
+                "indent": 0
+            },
+            {
+                "id": "vn.CallScene",
+                "params": {
+                    "scene": {
+                        "uid": "E8023FF12DF3024AE35A80B7D3690BED05F3",
+                        "name": "Load Menu"
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "D9DA3FC93E01984ED05BD2070CA94C070FFE",
+                "indent": 0
             },
             {
                 "id": "gs.Idle",

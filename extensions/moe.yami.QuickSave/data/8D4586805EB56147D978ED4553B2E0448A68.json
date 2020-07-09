@@ -1,0 +1,14 @@
+{
+    "uid": "8D4586805EB56147D978ED4553B2E0448A68",
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Components",
+        "type": "game_script",
+        "order": 1,
+        "content": "",
+        "parentId": "2F0C102681B1334D6A4874E4994286CDEC95",
+        "folder": true,
+        "scriptType": 0,
+        "decoded": true
+    }
+}

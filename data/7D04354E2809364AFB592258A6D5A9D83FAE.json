@@ -1,0 +1,18 @@
+{
+    "uid": "7D04354E2809364AFB592258A6D5A9D83FAE",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Data Record Views",
+        "type": "document_folder",
+        "parentId": "3A98217D6EC49241223817B97CC4668B526F",
+        "order": 2,
+        "rawContent": "{}",
+        "replacedByExtension": "moe.yami.CoreEngine"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

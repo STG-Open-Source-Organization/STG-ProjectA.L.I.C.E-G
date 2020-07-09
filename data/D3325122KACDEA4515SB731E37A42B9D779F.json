@@ -5,7 +5,7 @@
     "items": {
         "name": "Components",
         "type": "game_script",
-        "order": 3,
+        "order": 4,
         "content": "",
         "parentId": "ROOT",
         "folder": true,
@@ -16,5 +16,6 @@
         "name",
         "type",
         "order"
-    ]
+    ],
+    "externalItems": []
 }

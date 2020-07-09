@@ -1,0 +1,14 @@
+{
+    "uid": "A5CC5A825AE5F94DE77A42821B754018616D",
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Namespace",
+        "type": "game_script",
+        "order": 0,
+        "content": "window.MOE = {};\nwindow.MOE.CoreEngine = {};\nwindow.MOE.CoreEngine.Config = {};",
+        "parentId": "21FEA5E0582E564CA68ACF55CC5C4A5ECA55",
+        "folder": false,
+        "scriptType": 1,
+        "compiledContent": "window.MOE = {};\nwindow.MOE.CoreEngine = {};\nwindow.MOE.CoreEngine.Config = {};"
+    }
+}

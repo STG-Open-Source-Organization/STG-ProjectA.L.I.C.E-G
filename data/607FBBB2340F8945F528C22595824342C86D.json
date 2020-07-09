@@ -504,6 +504,24 @@
                 },
                 "uid": "6BB6B0A19337854C984A40C00423EFCE690C",
                 "indent": 0
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "4B28387985C6F144615927926E09092086A3",
+                        "name": "The End"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "72D4AF8B472C024A301934277455D8D1CC52",
+                "indent": 0
             }
         ],
         "livePreviewDisabled": false

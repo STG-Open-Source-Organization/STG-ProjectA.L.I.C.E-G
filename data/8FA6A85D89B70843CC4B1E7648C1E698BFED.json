@@ -1,0 +1,19 @@
+{
+    "uid": "8FA6A85D89B70843CC4B1E7648C1E698BFED",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "type": "game_script",
+        "name": "Styles",
+        "order": 12,
+        "content": "",
+        "parentId": "CC2ABB6E28AFB345556B1ED6912E91138477",
+        "folder": true,
+        "scriptType": 0
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

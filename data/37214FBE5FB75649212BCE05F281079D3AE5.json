@@ -1,0 +1,17 @@
+{
+    "uid": "37214FBE5FB75649212BCE05F281079D3AE5",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "type": "script",
+        "name": "button",
+        "parentId": "41E2CB852A75C4434D6B6FC4D46948394CC6"
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "o"
+    ],
+    "externalItems": []
+}
